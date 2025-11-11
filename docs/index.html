@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+  <meta charset="utf-8">
+  <title>台股三大法人持股追蹤（上市＋上櫃）</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="card">
+    <h2>台灣三大法人持股比例追蹤（上市＋上櫃）</h2>
+    <p class="subtitle">
+      資料來源：TWSE / TPEX 官方盤後資料。投信與自營商持股為模型估計值，僅供研究使用。
+    </p>
+    <div class="controls">
+      <div class="control-block">
+        <label for="stockInput">股票代碼：</label>
+        <input id="stockInput" type="text" placeholder="2330">
+        <button id="loadBtn">載入</button>
+        <span id="statusText" class="subtitle"></span>
+      </div>
+      <div class="control-block">
+        <label for="marketFilter">市場：</label>
+        <select id="marketFilter">
+          <option value="ALL">全部</option>
+          <option value="TWSE">上市 (TWSE)</option>
+          <option value="TPEX">上櫃 (TPEX)</option>
+        </select>
+      </div>
+      <div class="control-block">
+        <label for="windowFilter">視窗長度：</label>
+        <select id="windowFilter">
+          <option value="5">5 日</option>
+          <option value="20" selected>20 日</option>
+          <option value="60">60 日</option>
+          <option value="120">120 日</option>
+        </select>
+      </div>
+      <div class="control-block">
+        <label>
+          <input type="checkbox" id="logScaleCheckbox">
+          Y 軸 log scale
+        </label>
+      </div>
+      <div class="control-block small">
+        <span>顯示線條：</span>
+        <label><input type="checkbox" id="showForeign" checked> 外資</label>
+        <label><input type="checkbox" id="showTrust" checked> 投信</label>
+        <label><input type="checkbox" id="showDealer" checked> 自營商</label>
+        <label><input type="checkbox" id="showTotal" checked> 三法人合計</label>
+      </div>
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col">
+      <div class="card">
+        <h3 id="chartTitle">2330 三大法人持股比重</h3>
+        <canvas id="ratioChart" height="260"></canvas>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card">
+        <h3>三大法人持股變化排名</h3>
+        <p class="subtitle">
+          以當前選定視窗（5 / 20 / 60 / 120 日）之三大法人合計持股比重變化排序，可篩選上市 / 上櫃。
+        </p>
+        <table id="rankTable">
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>股票</th>
+              <th>市場</th>
+              <th>目前三法人持股%</th>
+              <th>變化Δ%</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- 動態插入 -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
