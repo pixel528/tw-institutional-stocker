@@ -395,54 +395,63 @@ function initTabs() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  const input = document.getElementById("stockInput");
-  const btn = document.getElementById("loadBtn");
-  const marketSel = document.getElementById("marketFilter");
-  const windowSel = document.getElementById("windowFilter");
-  const logCb = document.getElementById("logScaleCheckbox");
-  const showForeign = document.getElementById("showForeign");
-  const showTrust = document.getElementById("showTrust");
-  const showDealer = document.getElementById("showDealer");
-  const showTotal = document.getElementById("showTotal");
+  console.log("DOMContentLoaded fired");
 
-  btn.addEventListener("click", () => {
-    loadStock(input.value);
-  });
+  try {
+    const input = document.getElementById("stockInput");
+    const btn = document.getElementById("loadBtn");
+    const marketSel = document.getElementById("marketFilter");
+    const windowSel = document.getElementById("windowFilter");
+    const logCb = document.getElementById("logScaleCheckbox");
+    const showForeign = document.getElementById("showForeign");
+    const showTrust = document.getElementById("showTrust");
+    const showDealer = document.getElementById("showDealer");
+    const showTotal = document.getElementById("showTotal");
 
-  input.addEventListener("keyup", (e) => {
-    if (e.key === "Enter") {
+    btn.addEventListener("click", () => {
       loadStock(input.value);
-    }
-  });
+    });
 
-  marketSel.addEventListener("change", () => {
-    marketFilter = marketSel.value;
-    loadRanking();
-  });
+    input.addEventListener("keyup", (e) => {
+      if (e.key === "Enter") {
+        loadStock(input.value);
+      }
+    });
 
-  windowSel.addEventListener("change", () => {
-    currentWindow = parseInt(windowSel.value, 10);
-    loadRanking();
-  });
+    marketSel.addEventListener("change", () => {
+      marketFilter = marketSel.value;
+      loadRanking();
+    });
 
-  logCb.addEventListener("change", () => {
-    useLogScale = logCb.checked;
-    loadStock(input.value || "2330");
-  });
+    windowSel.addEventListener("change", () => {
+      currentWindow = parseInt(windowSel.value, 10);
+      loadRanking();
+    });
 
-  [showForeign, showTrust, showDealer, showTotal].forEach((cb) => {
-    cb.addEventListener("change", () => {
+    logCb.addEventListener("change", () => {
+      useLogScale = logCb.checked;
       loadStock(input.value || "2330");
     });
-  });
 
-  // 初始化 tabs
-  initTabs();
+    [showForeign, showTrust, showDealer, showTotal].forEach((cb) => {
+      cb.addEventListener("change", () => {
+        loadStock(input.value || "2330");
+      });
+    });
 
-  // default view
-  input.value = "2330";
-  loadStock("2330");
-  loadRanking();
-  loadBrokerRanking();
+    // 初始化 tabs
+    console.log("Initializing tabs...");
+    initTabs();
+
+    // default view
+    console.log("Loading initial data...");
+    input.value = "2330";
+    loadStock("2330");
+    loadRanking();
+    loadBrokerRanking();
+
+    console.log("Initialization complete");
+  } catch (err) {
+    console.error("Initialization error:", err);
+  }
 });
-
