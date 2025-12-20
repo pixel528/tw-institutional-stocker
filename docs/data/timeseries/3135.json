@@ -735,5 +735,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.82,
     "three_inst_ratio_change_20": 2.64
+  },
+  {
+    "date": "2025-12-19",
+    "code": "3135",
+    "name": "凌航",
+    "market": "TWSE",
+    "foreign_ratio": 5.47,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.47,
+    "three_inst_ratio_change_20": 2.57
   }
 ]

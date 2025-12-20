@@ -735,5 +735,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.97,
     "three_inst_ratio_change_20": 4.329999999999998
+  },
+  {
+    "date": "2025-12-19",
+    "code": "00922",
+    "name": "國泰台灣領袖50",
+    "market": "TWSE",
+    "foreign_ratio": 18.35,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.35,
+    "three_inst_ratio_change_20": 6.280000000000001
   }
 ]

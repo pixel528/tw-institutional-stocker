@@ -735,5 +735,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 17.933503149388283,
     "three_inst_ratio_change_20": 1.990017337314594
+  },
+  {
+    "date": "2025-12-19",
+    "code": "6269",
+    "name": "台郡",
+    "market": "TWSE",
+    "foreign_ratio": 17.85,
+    "trust_ratio": 0.1535031493882826,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.003503149388283,
+    "three_inst_ratio_change_20": 2.0900173373145936
   }
 ]

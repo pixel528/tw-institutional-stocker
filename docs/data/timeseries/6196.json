@@ -735,5 +735,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.267571796628838,
     "three_inst_ratio_change_20": -1.2152835228972183
+  },
+  {
+    "date": "2025-12-19",
+    "code": "6196",
+    "name": "帆宣",
+    "market": "TWSE",
+    "foreign_ratio": 15.63,
+    "trust_ratio": -3.088947386328928,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.541052613671074,
+    "three_inst_ratio_change_20": -0.9268335261414578
   }
 ]

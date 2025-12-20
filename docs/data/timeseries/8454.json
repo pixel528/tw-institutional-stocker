@@ -735,5 +735,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.397515219108652,
     "three_inst_ratio_change_20": -0.15116803350803032
+  },
+  {
+    "date": "2025-12-19",
+    "code": "8454",
+    "name": "富邦媒",
+    "market": "TWSE",
+    "foreign_ratio": 13.43,
+    "trust_ratio": 0.01864740021498232,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 13.448647400214982,
+    "three_inst_ratio_change_20": -0.020035852401699472
   }
 ]

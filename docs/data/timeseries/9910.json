@@ -735,5 +735,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 12.063905479628536,
     "three_inst_ratio_change_20": -0.12579872702617223
+  },
+  {
+    "date": "2025-12-19",
+    "code": "9910",
+    "name": "豐泰",
+    "market": "TWSE",
+    "foreign_ratio": 11.74,
+    "trust_ratio": 0.32360167687816743,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.063601676878168,
+    "three_inst_ratio_change_20": -0.14529238910888864
   }
 ]

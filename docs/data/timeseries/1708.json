@@ -735,5 +735,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.347349149945998,
     "three_inst_ratio_change_20": -0.41999999999999993
+  },
+  {
+    "date": "2025-12-19",
+    "code": "1708",
+    "name": "東鹼",
+    "market": "TWSE",
+    "foreign_ratio": 9.4,
+    "trust_ratio": 0.03734914994599775,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.437349149945998,
+    "three_inst_ratio_change_20": -0.27999999999999936
   }
 ]

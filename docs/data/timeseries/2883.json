@@ -735,5 +735,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 26.762603563809357,
     "three_inst_ratio_change_20": 1.4779883437268317
+  },
+  {
+    "date": "2025-12-19",
+    "code": "2883",
+    "name": "凱基金",
+    "market": "TWSE",
+    "foreign_ratio": 26.2,
+    "trust_ratio": 0.6663247231823397,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 26.866324723182338,
+    "three_inst_ratio_change_20": 1.665332470976491
   }
 ]
