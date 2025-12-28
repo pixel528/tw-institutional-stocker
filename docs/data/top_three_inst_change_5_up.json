@@ -742,17 +742,17 @@
     "change": 0.4210028743047758
   },
   {
-    "code": "00947",
-    "name": "台新臺灣IC設計",
-    "market": "TWSE",
-    "three_inst_ratio": 1.87,
-    "change": 0.41000000000000014
-  },
-  {
     "code": "1708",
     "name": "東鹼",
     "market": "TWSE",
     "three_inst_ratio": 9.757349149945998,
+    "change": 0.41000000000000014
+  },
+  {
+    "code": "00947",
+    "name": "台新臺灣IC設計",
+    "market": "TWSE",
+    "three_inst_ratio": 1.87,
     "change": 0.41000000000000014
   },
   {
@@ -1365,17 +1365,17 @@
     "change": 0.19999999999999996
   },
   {
-    "code": "2491",
-    "name": "吉祥全",
-    "market": "TWSE",
-    "three_inst_ratio": 5.81,
-    "change": 0.1999999999999993
-  },
-  {
     "code": "6834",
     "name": "天二科技",
     "market": "TWSE",
     "three_inst_ratio": 10.69,
+    "change": 0.1999999999999993
+  },
+  {
+    "code": "2491",
+    "name": "吉祥全",
+    "market": "TWSE",
+    "three_inst_ratio": 5.81,
     "change": 0.1999999999999993
   },
   {
