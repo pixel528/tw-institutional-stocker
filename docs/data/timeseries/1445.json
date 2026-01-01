@@ -748,6 +748,17 @@
     "three_inst_ratio_change_20": 0.08000000000000007
   },
   {
+    "date": "2025-12-23",
+    "code": "1445",
+    "name": "大宇",
+    "market": "TWSE",
+    "foreign_ratio": 2.74,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.74,
+    "three_inst_ratio_change_20": 0.07000000000000028
+  },
+  {
     "date": "2025-12-24",
     "code": "1445",
     "name": "大宇",
@@ -767,7 +778,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.74,
-    "three_inst_ratio_change_20": 0.07000000000000028
+    "three_inst_ratio_change_20": 0.0900000000000003
   },
   {
     "date": "2025-12-29",
@@ -778,7 +789,7 @@
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.74,
-    "three_inst_ratio_change_20": 0.0900000000000003
+    "three_inst_ratio_change_20": 0.11000000000000032
   },
   {
     "date": "2025-12-30",
@@ -790,5 +801,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.74,
     "three_inst_ratio_change_20": 0.11000000000000032
+  },
+  {
+    "date": "2025-12-31",
+    "code": "1445",
+    "name": "大宇",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -2.62
   }
 ]

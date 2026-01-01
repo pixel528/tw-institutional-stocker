@@ -605,6 +605,17 @@
     "three_inst_ratio_change_20": -0.0357142857142857
   },
   {
+    "date": "2025-12-22",
+    "code": "2882B",
+    "name": "國泰金乙特",
+    "market": "TWSE",
+    "foreign_ratio": 0.68,
+    "trust_ratio": 0.015142857142857142,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6951428571428572,
+    "three_inst_ratio_change_20": -0.0357142857142857
+  },
+  {
     "date": "2025-12-23",
     "code": "2882B",
     "name": "國泰金乙特",
@@ -647,5 +658,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.6894285714285715,
     "three_inst_ratio_change_20": -0.04142857142857137
+  },
+  {
+    "date": "2025-12-31",
+    "code": "2882B",
+    "name": "國泰金乙特",
+    "market": "TWSE",
+    "foreign_ratio": 0.0,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.0,
+    "three_inst_ratio_change_20": -0.7308571428571429
   }
 ]
