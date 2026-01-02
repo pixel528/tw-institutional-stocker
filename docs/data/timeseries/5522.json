@@ -818,10 +818,10 @@
     "code": "5522",
     "name": "遠雄",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 4.86,
+    "trust_ratio": 0.2925729270491719,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -3.582231939981912
+    "three_inst_ratio": 5.152572927049173,
+    "three_inst_ratio_change_20": 1.5703409870672607
   }
 ]

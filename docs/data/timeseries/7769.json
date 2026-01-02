@@ -257,10 +257,10 @@
     "code": "7769",
     "name": "鴻勁",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 12.05,
+    "trust_ratio": 2.163903740343467,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -10.398790085033069
+    "three_inst_ratio": 14.213903740343468,
+    "three_inst_ratio_change_20": 3.8151136553104
   }
 ]

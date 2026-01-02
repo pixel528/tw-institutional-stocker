@@ -818,10 +818,10 @@
     "code": "8112",
     "name": "至上",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 14.94,
+    "trust_ratio": 2.039706136760608,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -17.94729495896202
+    "three_inst_ratio": 16.97970613676061,
+    "three_inst_ratio_change_20": -0.9675888222014102
   }
 ]

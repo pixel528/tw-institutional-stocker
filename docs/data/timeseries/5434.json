@@ -818,10 +818,10 @@
     "code": "5434",
     "name": "崇越",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 27.11,
+    "trust_ratio": 0.8883200704115394,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -28.496164813280977
+    "three_inst_ratio": 27.998320070411538,
+    "three_inst_ratio_change_20": -0.49784474286943947
   }
 ]

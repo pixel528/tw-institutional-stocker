@@ -818,10 +818,10 @@
     "code": "00757",
     "name": "統一FANG+",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 2.27,
+    "trust_ratio": -0.5218664786854429,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -1.6881717668877951
+    "three_inst_ratio": 1.748133521314557,
+    "three_inst_ratio_change_20": 0.05996175442676188
   }
 ]

@@ -818,10 +818,10 @@
     "code": "1210",
     "name": "大成",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 9.99,
+    "trust_ratio": 1.512072376741579,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -12.374850790231562
+    "three_inst_ratio": 11.502072376741578,
+    "three_inst_ratio_change_20": -0.8727784134899839
   }
 ]

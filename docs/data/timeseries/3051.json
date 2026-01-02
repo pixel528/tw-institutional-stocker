@@ -818,10 +818,10 @@
     "code": "3051",
     "name": "力特",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 3.73,
+    "trust_ratio": -0.44970059880239516,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -3.4003592814371255
+    "three_inst_ratio": 3.2802994011976048,
+    "three_inst_ratio_change_20": -0.12005988023952074
   }
 ]

@@ -818,10 +818,10 @@
     "code": "5007",
     "name": "三星",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 2.86,
+    "trust_ratio": -0.06679321120853554,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -2.8544076738360964
+    "three_inst_ratio": 2.7932067887914642,
+    "three_inst_ratio_change_20": -0.06120088504463217
   }
 ]

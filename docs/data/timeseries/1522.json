@@ -818,10 +818,10 @@
     "code": "1522",
     "name": "堤維西",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 4.84,
+    "trust_ratio": 0.09211311980728946,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -5.082614163373002
+    "three_inst_ratio": 4.93211311980729,
+    "three_inst_ratio_change_20": -0.15050104356571214
   }
 ]

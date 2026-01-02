@@ -818,10 +818,10 @@
     "code": "2467",
     "name": "志聖",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 14.48,
+    "trust_ratio": 0.7623344372276217,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -11.945883856670715
+    "three_inst_ratio": 15.242334437227623,
+    "three_inst_ratio_change_20": 3.2964505805569075
   }
 ]

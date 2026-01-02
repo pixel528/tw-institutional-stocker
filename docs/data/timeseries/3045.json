@@ -818,10 +818,10 @@
     "code": "3045",
     "name": "台灣大",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 11.77,
+    "trust_ratio": 3.7523656968532206,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -16.25591720514655
+    "three_inst_ratio": 15.522365696853221,
+    "three_inst_ratio_change_20": -0.7335515082933277
   }
 ]

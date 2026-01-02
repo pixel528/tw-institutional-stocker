@@ -818,10 +818,10 @@
     "code": "9945",
     "name": "潤泰新",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 9.7,
+    "trust_ratio": -0.3422672856630588,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -9.30197955439874
+    "three_inst_ratio": 9.35773271433694,
+    "three_inst_ratio_change_20": 0.055753159938200625
   }
 ]

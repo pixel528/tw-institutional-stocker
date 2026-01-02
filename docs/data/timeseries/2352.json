@@ -752,10 +752,10 @@
     "code": "2352",
     "name": "佳世達",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 10.51,
+    "trust_ratio": 0.01037123222722832,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -12.161013361378098
+    "three_inst_ratio": 10.520371232227228,
+    "three_inst_ratio_change_20": -1.6406421291508693
   }
 ]

@@ -818,10 +818,10 @@
     "code": "2236",
     "name": "百達-KY",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 52.32,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -52.23
+    "three_inst_ratio": 52.32,
+    "three_inst_ratio_change_20": 0.09000000000000341
   }
 ]

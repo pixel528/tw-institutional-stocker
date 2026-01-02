@@ -818,10 +818,10 @@
     "code": "4766",
     "name": "南寶",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 16.71,
+    "trust_ratio": 1.0510896587050362,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -18.564789696143627
+    "three_inst_ratio": 17.761089658705036,
+    "three_inst_ratio_change_20": -0.8037000374385919
   }
 ]

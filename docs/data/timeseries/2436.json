@@ -818,10 +818,10 @@
     "code": "2436",
     "name": "偉詮電",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 4.57,
+    "trust_ratio": 1.0783878206119266,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -6.511314758855881
+    "three_inst_ratio": 5.6483878206119265,
+    "three_inst_ratio_change_20": -0.8629269382439544
   }
 ]

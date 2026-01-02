@@ -818,10 +818,10 @@
     "code": "00881",
     "name": "國泰台灣科技龍頭",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 1.72,
+    "trust_ratio": 0.3861237021562357,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -1.683502751618985
+    "three_inst_ratio": 2.1061237021562356,
+    "three_inst_ratio_change_20": 0.42262095053725046
   }
 ]

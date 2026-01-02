@@ -697,10 +697,10 @@
     "code": "8481",
     "name": "政伸",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 0.29,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -0.3
+    "three_inst_ratio": 0.29,
+    "three_inst_ratio_change_20": -0.010000000000000009
   }
 ]

@@ -818,10 +818,10 @@
     "code": "6589",
     "name": "台康生技",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 5.8,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -6.2
+    "three_inst_ratio": 5.8,
+    "three_inst_ratio_change_20": -0.40000000000000036
   }
 ]

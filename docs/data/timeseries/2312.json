@@ -818,10 +818,10 @@
     "code": "2312",
     "name": "金寶",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 5.46,
+    "trust_ratio": 3.315769527751892,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -8.946521975722229
+    "three_inst_ratio": 8.775769527751892,
+    "three_inst_ratio_change_20": -0.17075244797033662
   }
 ]

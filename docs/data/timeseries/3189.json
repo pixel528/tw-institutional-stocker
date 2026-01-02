@@ -818,10 +818,10 @@
     "code": "3189",
     "name": "景碩",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 23.79,
+    "trust_ratio": 2.3460135715152903,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -23.248011947392175
+    "three_inst_ratio": 26.13601357151529,
+    "three_inst_ratio_change_20": 2.8880016241231132
   }
 ]

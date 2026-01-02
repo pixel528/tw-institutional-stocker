@@ -818,10 +818,10 @@
     "code": "2363",
     "name": "矽統",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 4.94,
+    "trust_ratio": 0.025248153228905005,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -5.147966662324884
+    "three_inst_ratio": 4.965248153228905,
+    "three_inst_ratio_change_20": -0.1827185090959791
   }
 ]

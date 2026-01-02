@@ -818,10 +818,10 @@
     "code": "6269",
     "name": "台郡",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 17.37,
+    "trust_ratio": 0.1535031493882826,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -16.88348581207369
+    "three_inst_ratio": 17.523503149388283,
+    "three_inst_ratio_change_20": 0.6400173373145925
   }
 ]

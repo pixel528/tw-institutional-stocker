@@ -818,10 +818,10 @@
     "code": "00783",
     "name": "富邦中証500",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 3.03,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -2.72
+    "three_inst_ratio": 3.03,
+    "three_inst_ratio_change_20": 0.3099999999999996
   }
 ]

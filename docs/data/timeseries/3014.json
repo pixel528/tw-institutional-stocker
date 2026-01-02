@@ -818,10 +818,10 @@
     "code": "3014",
     "name": "聯陽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 22.05,
+    "trust_ratio": -0.1693300747082926,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -23.934131737909073
+    "three_inst_ratio": 21.88066992529171,
+    "three_inst_ratio_change_20": -2.053461812617364
   }
 ]

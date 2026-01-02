@@ -818,10 +818,10 @@
     "code": "9939",
     "name": "宏全",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 13.03,
+    "trust_ratio": 1.9506314479051146,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -15.766128814713383
+    "three_inst_ratio": 14.980631447905115,
+    "three_inst_ratio_change_20": -0.7854973668082685
   }
 ]

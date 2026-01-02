@@ -818,10 +818,10 @@
     "code": "00701",
     "name": "國泰股利精選30",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.28,
+    "trust_ratio": 2.316161334448916,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -2.6364603741368042
+    "three_inst_ratio": 2.596161334448916,
+    "three_inst_ratio_change_20": -0.04029903968788817
   }
 ]

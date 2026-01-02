@@ -818,10 +818,10 @@
     "code": "2313",
     "name": "華通",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 32.21,
+    "trust_ratio": 2.0605502394119157,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -37.58104725499082
+    "three_inst_ratio": 34.27055023941192,
+    "three_inst_ratio_change_20": -3.3104970155789033
   }
 ]

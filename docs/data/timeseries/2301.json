@@ -818,10 +818,10 @@
     "code": "2301",
     "name": "光寶科",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 32.58,
+    "trust_ratio": -1.863165813859561,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -30.09754896007603
+    "three_inst_ratio": 30.71683418614044,
+    "three_inst_ratio_change_20": 0.6192852260644095
   }
 ]

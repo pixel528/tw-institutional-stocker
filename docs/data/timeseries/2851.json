@@ -818,10 +818,10 @@
     "code": "2851",
     "name": "中再保",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 4.83,
+    "trust_ratio": 0.04785174704167194,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -4.538601382765562
+    "three_inst_ratio": 4.877851747041672,
+    "three_inst_ratio_change_20": 0.33925036427610955
   }
 ]

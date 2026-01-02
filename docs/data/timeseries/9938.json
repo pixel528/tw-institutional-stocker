@@ -818,10 +818,10 @@
     "code": "9938",
     "name": "百和",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 18.25,
+    "trust_ratio": 0.5497310207731136,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -22.23559730708588
+    "three_inst_ratio": 18.799731020773113,
+    "three_inst_ratio_change_20": -3.4358662863127662
   }
 ]

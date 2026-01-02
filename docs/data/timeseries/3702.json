@@ -818,10 +818,10 @@
     "code": "3702",
     "name": "大聯大",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 22.87,
+    "trust_ratio": -1.1722083263157776,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -26.480798170748994
+    "three_inst_ratio": 21.697791673684222,
+    "three_inst_ratio_change_20": -4.783006497064772
   }
 ]

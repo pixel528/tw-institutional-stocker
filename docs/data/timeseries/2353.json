@@ -818,10 +818,10 @@
     "code": "2353",
     "name": "宏碁",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 12.32,
+    "trust_ratio": 2.258506013891425,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -17.523296284194373
+    "three_inst_ratio": 14.578506013891426,
+    "three_inst_ratio_change_20": -2.9447902703029474
   }
 ]

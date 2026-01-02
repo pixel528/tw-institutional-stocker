@@ -818,10 +818,10 @@
     "code": "2351",
     "name": "順德",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 5.56,
+    "trust_ratio": 0.08839342258722838,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -6.968235412042288
+    "three_inst_ratio": 5.648393422587228,
+    "three_inst_ratio_change_20": -1.3198419894550604
   }
 ]

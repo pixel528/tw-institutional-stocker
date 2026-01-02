@@ -818,10 +818,10 @@
     "code": "6443",
     "name": "元晶",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 10.58,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -9.27
+    "three_inst_ratio": 10.58,
+    "three_inst_ratio_change_20": 1.3100000000000005
   }
 ]

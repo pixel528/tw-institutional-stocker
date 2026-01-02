@@ -818,10 +818,10 @@
     "code": "2461",
     "name": "光群雷",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 4.8,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -4.98
+    "three_inst_ratio": 4.8,
+    "three_inst_ratio_change_20": -0.1800000000000006
   }
 ]

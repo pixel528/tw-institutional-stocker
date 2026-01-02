@@ -818,10 +818,10 @@
     "code": "2337",
     "name": "旺宏",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 20.78,
+    "trust_ratio": 2.8588932578959847,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -19.29439947868487
+    "three_inst_ratio": 23.638893257895987,
+    "three_inst_ratio_change_20": 4.344493779211117
   }
 ]

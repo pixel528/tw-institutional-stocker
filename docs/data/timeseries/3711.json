@@ -818,10 +818,10 @@
     "code": "3711",
     "name": "日月光投控",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 78.15,
+    "trust_ratio": -1.3440713875356443,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -76.46382842891377
+    "three_inst_ratio": 76.80592861246436,
+    "three_inst_ratio_change_20": 0.3421001835505848
   }
 ]

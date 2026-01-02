@@ -818,10 +818,10 @@
     "code": "2385",
     "name": "群光",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 18.1,
+    "trust_ratio": 0.001163865940684476,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -19.182420379715225
+    "three_inst_ratio": 18.101163865940684,
+    "three_inst_ratio_change_20": -1.081256513774541
   }
 ]

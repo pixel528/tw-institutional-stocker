@@ -818,10 +818,10 @@
     "code": "6768",
     "name": "志強-KY",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 58.9,
+    "trust_ratio": 0.4975575084284564,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -60.19097370779182
+    "three_inst_ratio": 59.397557508428456,
+    "three_inst_ratio_change_20": -0.7934161993633637
   }
 ]

@@ -818,10 +818,10 @@
     "code": "3044",
     "name": "健鼎",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 45.0,
+    "trust_ratio": -1.286883580594828,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -43.09356704243071
+    "three_inst_ratio": 43.713116419405175,
+    "three_inst_ratio_change_20": 0.6195493769744616
   }
 ]

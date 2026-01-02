@@ -818,10 +818,10 @@
     "code": "3038",
     "name": "全台",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 8.33,
+    "trust_ratio": 0.013627677184055716,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -7.871032020924681
+    "three_inst_ratio": 8.343627677184056,
+    "three_inst_ratio_change_20": 0.47259565625937494
   }
 ]

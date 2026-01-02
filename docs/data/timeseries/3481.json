@@ -818,10 +818,10 @@
     "code": "3481",
     "name": "群創",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 22.59,
+    "trust_ratio": 0.1994903158317117,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -24.52324959795645
+    "three_inst_ratio": 22.78949031583171,
+    "three_inst_ratio_change_20": -1.7337592821247405
   }
 ]

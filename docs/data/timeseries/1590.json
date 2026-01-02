@@ -818,10 +818,10 @@
     "code": "1590",
     "name": "亞德客-KY",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 77.67,
+    "trust_ratio": 0.615392506153925,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -77.94739200507392
+    "three_inst_ratio": 78.28539250615393,
+    "three_inst_ratio_change_20": 0.33800050108000335
   }
 ]

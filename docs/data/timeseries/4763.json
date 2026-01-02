@@ -818,10 +818,10 @@
     "code": "4763",
     "name": "材料*-KY",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 47.28,
+    "trust_ratio": 0.9091599125537166,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -48.29231256513253
+    "three_inst_ratio": 48.18915991255372,
+    "three_inst_ratio_change_20": -0.10315265257880668
   }
 ]

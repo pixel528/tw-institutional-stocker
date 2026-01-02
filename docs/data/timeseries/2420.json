@@ -818,10 +818,10 @@
     "code": "2420",
     "name": "新巨",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 5.34,
+    "trust_ratio": 0.3171471739082356,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -5.309826484718951
+    "three_inst_ratio": 5.6571471739082355,
+    "three_inst_ratio_change_20": 0.34732068918928416
   }
 ]

@@ -818,10 +818,10 @@
     "code": "2472",
     "name": "立隆電",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 10.01,
+    "trust_ratio": 3.560794683407463,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -12.038949953828004
+    "three_inst_ratio": 13.570794683407463,
+    "three_inst_ratio_change_20": 1.5318447295794595
   }
 ]

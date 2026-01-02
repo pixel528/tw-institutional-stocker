@@ -818,10 +818,10 @@
     "code": "2880",
     "name": "華南金",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 16.7,
+    "trust_ratio": 1.3079724770156747,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -17.821110412465732
+    "three_inst_ratio": 18.007972477015674,
+    "three_inst_ratio_change_20": 0.18686206454994192
   }
 ]

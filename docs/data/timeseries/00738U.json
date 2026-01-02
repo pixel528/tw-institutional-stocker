@@ -818,10 +818,10 @@
     "code": "00738U",
     "name": "期元大道瓊白銀",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 6.36,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -3.9
+    "three_inst_ratio": 6.36,
+    "three_inst_ratio_change_20": 2.4600000000000004
   }
 ]

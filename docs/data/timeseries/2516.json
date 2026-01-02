@@ -818,10 +818,10 @@
     "code": "2516",
     "name": "新建",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 3.03,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -2.96
+    "three_inst_ratio": 3.03,
+    "three_inst_ratio_change_20": 0.06999999999999984
   }
 ]

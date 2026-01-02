@@ -818,10 +818,10 @@
     "code": "1477",
     "name": "聚陽",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 19.46,
+    "trust_ratio": -2.6572537744405347,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -18.6869416290313
+    "three_inst_ratio": 16.802746225559467,
+    "three_inst_ratio_change_20": -1.884195403471832
   }
 ]

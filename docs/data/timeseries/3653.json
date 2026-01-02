@@ -818,10 +818,10 @@
     "code": "3653",
     "name": "健策",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 26.62,
+    "trust_ratio": 8.011806859272651,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -35.86163225424944
+    "three_inst_ratio": 34.63180685927265,
+    "three_inst_ratio_change_20": -1.2298253949767926
   }
 ]

@@ -752,10 +752,10 @@
     "code": "1735",
     "name": "日勝化",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 50.42,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -50.43
+    "three_inst_ratio": 50.42,
+    "three_inst_ratio_change_20": -0.00999999999999801
   }
 ]

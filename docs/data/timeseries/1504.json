@@ -818,10 +818,10 @@
     "code": "1504",
     "name": "東元",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 14.05,
+    "trust_ratio": -4.2081487946786895,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -10.634264833601039
+    "three_inst_ratio": 9.841851205321312,
+    "three_inst_ratio_change_20": -0.7924136282797267
   }
 ]

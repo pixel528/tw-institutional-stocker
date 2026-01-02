@@ -818,10 +818,10 @@
     "code": "1402",
     "name": "遠東新",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 18.77,
+    "trust_ratio": 0.26015726893385327,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -19.310859836989437
+    "three_inst_ratio": 19.030157268933852,
+    "three_inst_ratio_change_20": -0.2807025680555846
   }
 ]

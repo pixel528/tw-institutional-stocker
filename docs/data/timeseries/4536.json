@@ -818,10 +818,10 @@
     "code": "4536",
     "name": "拓凱",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 15.08,
+    "trust_ratio": 0.32261616384056374,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -17.1103237172429
+    "three_inst_ratio": 15.402616163840564,
+    "three_inst_ratio_change_20": -1.7077075534023347
   }
 ]

@@ -818,10 +818,10 @@
     "code": "00981A",
     "name": "主動統一台股增長",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 1.02,
+    "trust_ratio": 0.3995019318771991,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -0.97987574244577
+    "three_inst_ratio": 1.419501931877199,
+    "three_inst_ratio_change_20": 0.43962618943142906
   }
 ]

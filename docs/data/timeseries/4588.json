@@ -818,10 +818,10 @@
     "code": "4588",
     "name": "玖鼎電力",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 4.22,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -4.09
+    "three_inst_ratio": 4.22,
+    "three_inst_ratio_change_20": 0.1299999999999999
   }
 ]

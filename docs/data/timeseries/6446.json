@@ -818,10 +818,10 @@
     "code": "6446",
     "name": "藥華藥",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 19.15,
+    "trust_ratio": 1.3702565227709884,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -21.507734027095736
+    "three_inst_ratio": 20.520256522770985,
+    "three_inst_ratio_change_20": -0.987477504324751
   }
 ]

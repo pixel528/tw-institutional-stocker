@@ -818,10 +818,10 @@
     "code": "3406",
     "name": "玉晶光",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 30.19,
+    "trust_ratio": 3.9465896008165045,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -33.71143422748768
+    "three_inst_ratio": 34.13658960081651,
+    "three_inst_ratio_change_20": 0.4251553733288276
   }
 ]

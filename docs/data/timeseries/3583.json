@@ -818,10 +818,10 @@
     "code": "3583",
     "name": "辛耘",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 11.38,
+    "trust_ratio": 3.3910965043322383,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -14.578647545065232
+    "three_inst_ratio": 14.771096504332238,
+    "three_inst_ratio_change_20": 0.192448959267006
   }
 ]

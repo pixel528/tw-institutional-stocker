@@ -818,10 +818,10 @@
     "code": "6415",
     "name": "矽力*-KY",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 78.98,
+    "trust_ratio": 0.8671219782892697,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -81.32059389104201
+    "three_inst_ratio": 79.84712197828928,
+    "three_inst_ratio_change_20": -1.4734719127527285
   }
 ]

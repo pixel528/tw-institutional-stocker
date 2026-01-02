@@ -818,10 +818,10 @@
     "code": "3052",
     "name": "夆典",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 4.68,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -4.17
+    "three_inst_ratio": 4.68,
+    "three_inst_ratio_change_20": 0.5099999999999998
   }
 ]

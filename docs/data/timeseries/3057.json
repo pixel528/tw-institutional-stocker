@@ -752,10 +752,10 @@
     "code": "3057",
     "name": "喬鼎",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 2.1,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -1.94
+    "three_inst_ratio": 2.1,
+    "three_inst_ratio_change_20": 0.16000000000000014
   }
 ]

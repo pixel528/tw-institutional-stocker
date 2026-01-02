@@ -818,10 +818,10 @@
     "code": "1447",
     "name": "力鵬",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 4.79,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -4.85
+    "three_inst_ratio": 4.79,
+    "three_inst_ratio_change_20": -0.05999999999999961
   }
 ]

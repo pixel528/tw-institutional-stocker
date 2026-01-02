@@ -818,10 +818,10 @@
     "code": "4977",
     "name": "眾達-KY",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 18.05,
+    "trust_ratio": -0.16835050215400726,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -22.90022906106024
+    "three_inst_ratio": 17.881649497845995,
+    "three_inst_ratio_change_20": -5.018579563214246
   }
 ]

@@ -818,10 +818,10 @@
     "code": "1587",
     "name": "吉茂",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 21.87,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -21.5
+    "three_inst_ratio": 21.87,
+    "three_inst_ratio_change_20": 0.370000000000001
   }
 ]

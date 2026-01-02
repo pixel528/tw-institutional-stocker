@@ -807,10 +807,10 @@
     "code": "4737",
     "name": "華廣",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 24.66,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -23.37
+    "three_inst_ratio": 24.66,
+    "three_inst_ratio_change_20": 1.2899999999999991
   }
 ]

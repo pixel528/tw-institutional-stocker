@@ -818,10 +818,10 @@
     "code": "3694",
     "name": "海華",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 8.48,
+    "trust_ratio": -1.7967409906476015,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -10.05390439045536
+    "three_inst_ratio": 6.683259009352399,
+    "three_inst_ratio_change_20": -3.3706453811029604
   }
 ]

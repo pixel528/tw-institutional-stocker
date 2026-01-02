@@ -818,10 +818,10 @@
     "code": "2439",
     "name": "美律",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 17.05,
+    "trust_ratio": -1.6261748648892917,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -17.176828773677656
+    "three_inst_ratio": 15.42382513511071,
+    "three_inst_ratio_change_20": -1.7530036385669465
   }
 ]

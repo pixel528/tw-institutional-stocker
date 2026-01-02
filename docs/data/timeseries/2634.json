@@ -818,10 +818,10 @@
     "code": "2634",
     "name": "漢翔",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 2.72,
+    "trust_ratio": 0.28444023548073794,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -3.4953292590161293
+    "three_inst_ratio": 3.0044402354807382,
+    "three_inst_ratio_change_20": -0.4908890235353911
   }
 ]

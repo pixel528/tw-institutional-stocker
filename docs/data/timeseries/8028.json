@@ -818,10 +818,10 @@
     "code": "8028",
     "name": "昇陽半導體",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 10.73,
+    "trust_ratio": 2.24760714269391,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -8.99797329707163
+    "three_inst_ratio": 12.97760714269391,
+    "three_inst_ratio_change_20": 3.9796338456222813
   }
 ]

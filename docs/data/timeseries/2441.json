@@ -818,10 +818,10 @@
     "code": "2441",
     "name": "超豐",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 11.06,
+    "trust_ratio": 3.729310383857002,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -17.202257676116833
+    "three_inst_ratio": 14.789310383857003,
+    "three_inst_ratio_change_20": -2.4129472922598296
   }
 ]

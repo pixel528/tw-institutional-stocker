@@ -818,10 +818,10 @@
     "code": "2636",
     "name": "台驊控股",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 8.2,
+    "trust_ratio": 0.12761286458942536,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -7.998317908040196
+    "three_inst_ratio": 8.327612864589424,
+    "three_inst_ratio_change_20": 0.32929495654922825
   }
 ]

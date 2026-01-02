@@ -818,10 +818,10 @@
     "code": "3617",
     "name": "碩天",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 8.95,
+    "trust_ratio": -0.9063712548882666,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -8.179293867368271
+    "three_inst_ratio": 8.043628745111732,
+    "three_inst_ratio_change_20": -0.1356651222565386
   }
 ]

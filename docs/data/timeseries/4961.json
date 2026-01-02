@@ -818,10 +818,10 @@
     "code": "4961",
     "name": "天鈺",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 18.91,
+    "trust_ratio": -3.717242117745565,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -16.29950464243112
+    "three_inst_ratio": 15.192757882254435,
+    "three_inst_ratio_change_20": -1.1067467601766854
   }
 ]

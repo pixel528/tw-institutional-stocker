@@ -818,10 +818,10 @@
     "code": "00893",
     "name": "國泰智能電動車",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.69,
+    "trust_ratio": 0.047350278419637105,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -0.38718271980070024
+    "three_inst_ratio": 0.7373502784196371,
+    "three_inst_ratio_change_20": 0.35016755861893684
   }
 ]

@@ -818,10 +818,10 @@
     "code": "9921",
     "name": "巨大",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 25.94,
+    "trust_ratio": 0.0691806865534459,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -26.604889085300954
+    "three_inst_ratio": 26.009180686553446,
+    "three_inst_ratio_change_20": -0.595708398747508
   }
 ]

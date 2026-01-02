@@ -818,10 +818,10 @@
     "code": "8926",
     "name": "台汽電",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 9.33,
+    "trust_ratio": 0.07052590643066652,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -9.876578006852148
+    "three_inst_ratio": 9.400525906430667,
+    "three_inst_ratio_change_20": -0.47605210042148016
   }
 ]

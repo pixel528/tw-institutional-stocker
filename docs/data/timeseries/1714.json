@@ -818,10 +818,10 @@
     "code": "1714",
     "name": "和桐",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 17.21,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -17.17
+    "three_inst_ratio": 17.21,
+    "three_inst_ratio_change_20": 0.03999999999999915
   }
 ]

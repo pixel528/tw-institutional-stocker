@@ -818,10 +818,10 @@
     "code": "7749",
     "name": "意騰-KY",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 22.86,
+    "trust_ratio": 0.03441916624388457,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -22.974419166243887
+    "three_inst_ratio": 22.894419166243885,
+    "three_inst_ratio_change_20": -0.08000000000000185
   }
 ]

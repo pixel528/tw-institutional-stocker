@@ -818,10 +818,10 @@
     "code": "1609",
     "name": "大亞",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 11.96,
+    "trust_ratio": 0.05984563540748895,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -12.248107471664257
+    "three_inst_ratio": 12.01984563540749,
+    "three_inst_ratio_change_20": -0.22826183625676677
   }
 ]

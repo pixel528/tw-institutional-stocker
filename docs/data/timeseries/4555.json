@@ -818,10 +818,10 @@
     "code": "4555",
     "name": "氣立",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 3.6,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -4.14
+    "three_inst_ratio": 3.6,
+    "three_inst_ratio_change_20": -0.5399999999999996
   }
 ]

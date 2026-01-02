@@ -818,10 +818,10 @@
     "code": "5515",
     "name": "建國",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 9.76,
+    "trust_ratio": 0.022817450810189148,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -9.639007936921297
+    "three_inst_ratio": 9.782817450810189,
+    "three_inst_ratio_change_20": 0.14380951388889152
   }
 ]

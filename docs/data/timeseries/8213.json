@@ -818,10 +818,10 @@
     "code": "8213",
     "name": "志超",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 18.92,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -19.0
+    "three_inst_ratio": 18.92,
+    "three_inst_ratio_change_20": -0.0799999999999983
   }
 ]

@@ -818,10 +818,10 @@
     "code": "8021",
     "name": "尖點",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 11.52,
+    "trust_ratio": 1.7304683957650495,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -2.7826080538723286
+    "three_inst_ratio": 13.250468395765049,
+    "three_inst_ratio_change_20": 10.46786034189272
   }
 ]

@@ -818,10 +818,10 @@
     "code": "00753L",
     "name": "中信中國50正2",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 2.32,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -4.07
+    "three_inst_ratio": 2.32,
+    "three_inst_ratio_change_20": -1.7500000000000004
   }
 ]

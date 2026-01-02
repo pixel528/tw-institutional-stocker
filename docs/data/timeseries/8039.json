@@ -818,10 +818,10 @@
     "code": "8039",
     "name": "台虹",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 16.14,
+    "trust_ratio": 0.37093173364191734,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -17.614440272605368
+    "three_inst_ratio": 16.510931733641918,
+    "three_inst_ratio_change_20": -1.1035085389634496
   }
 ]

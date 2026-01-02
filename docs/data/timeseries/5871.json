@@ -818,10 +818,10 @@
     "code": "5871",
     "name": "中租-KY",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 42.74,
+    "trust_ratio": -3.903881027213733,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -38.89968976853734
+    "three_inst_ratio": 38.83611897278627,
+    "three_inst_ratio_change_20": -0.06357079575107605
   }
 ]

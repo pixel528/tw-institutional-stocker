@@ -818,10 +818,10 @@
     "code": "6789",
     "name": "采鈺",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 3.31,
+    "trust_ratio": 0.4935659278403469,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -3.769949749342536
+    "three_inst_ratio": 3.803565927840347,
+    "three_inst_ratio_change_20": 0.03361617849781107
   }
 ]

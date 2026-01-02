@@ -818,10 +818,10 @@
     "code": "1795",
     "name": "美時",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 58.35,
+    "trust_ratio": 1.9496552072319422,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -62.38936104701801
+    "three_inst_ratio": 60.29965520723194,
+    "three_inst_ratio_change_20": -2.0897058397860704
   }
 ]

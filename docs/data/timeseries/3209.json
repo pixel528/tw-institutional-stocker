@@ -818,10 +818,10 @@
     "code": "3209",
     "name": "全科",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 4.88,
+    "trust_ratio": 0.1323634948149877,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -5.084676652100592
+    "three_inst_ratio": 5.012363494814988,
+    "three_inst_ratio_change_20": -0.07231315728560439
   }
 ]

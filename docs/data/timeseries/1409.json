@@ -818,10 +818,10 @@
     "code": "1409",
     "name": "新纖",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 11.83,
+    "trust_ratio": 0.009206571000853736,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -11.839206571000854
+    "three_inst_ratio": 11.839206571000854,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

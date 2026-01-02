@@ -818,10 +818,10 @@
     "code": "8462",
     "name": "柏文",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 3.0,
+    "trust_ratio": 0.0037834808258173334,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -3.02504464110109
+    "three_inst_ratio": 3.0037834808258173,
+    "three_inst_ratio_change_20": -0.021261160275272584
   }
 ]

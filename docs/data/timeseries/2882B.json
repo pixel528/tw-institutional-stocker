@@ -664,10 +664,10 @@
     "code": "2882B",
     "name": "國泰金乙特",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.68,
+    "trust_ratio": 0.0064285714285714285,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -0.7308571428571429
+    "three_inst_ratio": 0.6864285714285715,
+    "three_inst_ratio_change_20": -0.04442857142857137
   }
 ]

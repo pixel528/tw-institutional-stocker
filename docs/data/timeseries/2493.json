@@ -818,10 +818,10 @@
     "code": "2493",
     "name": "揚博",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 3.39,
+    "trust_ratio": 0.19603991207053306,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -2.8068285765704384
+    "three_inst_ratio": 3.5860399120705333,
+    "three_inst_ratio_change_20": 0.7792113355000949
   }
 ]

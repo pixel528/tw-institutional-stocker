@@ -818,10 +818,10 @@
     "code": "1503",
     "name": "士電",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 30.4,
+    "trust_ratio": 0.18821061022287938,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -30.515736198069813
+    "three_inst_ratio": 30.588210610222877,
+    "three_inst_ratio_change_20": 0.07247441215306338
   }
 ]

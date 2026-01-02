@@ -818,10 +818,10 @@
     "code": "2233",
     "name": "宇隆",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 4.45,
+    "trust_ratio": 1.733344044127854,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -5.358272366039003
+    "three_inst_ratio": 6.183344044127854,
+    "three_inst_ratio_change_20": 0.8250716780888512
   }
 ]

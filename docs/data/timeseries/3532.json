@@ -818,10 +818,10 @@
     "code": "3532",
     "name": "台勝科",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 47.35,
+    "trust_ratio": 0.47162099202188074,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -47.47230343667872
+    "three_inst_ratio": 47.821620992021884,
+    "three_inst_ratio_change_20": 0.34931755534316267
   }
 ]

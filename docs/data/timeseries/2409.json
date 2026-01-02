@@ -818,10 +818,10 @@
     "code": "2409",
     "name": "友達",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 14.61,
+    "trust_ratio": 0.5218952493684086,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -16.93988040759458
+    "three_inst_ratio": 15.131895249368409,
+    "three_inst_ratio_change_20": -1.8079851582261703
   }
 ]

@@ -818,10 +818,10 @@
     "code": "00708L",
     "name": "期元大S&P黃金正2",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 1.2,
+    "trust_ratio": 0.8071628727406697,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -1.7548913078141444
+    "three_inst_ratio": 2.0071628727406696,
+    "three_inst_ratio_change_20": 0.25227156492652525
   }
 ]

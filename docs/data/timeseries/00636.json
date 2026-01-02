@@ -818,10 +818,10 @@
     "code": "00636",
     "name": "國泰中國A50",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.29,
+    "trust_ratio": 0.10651517841292384,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -0.4528630207440425
+    "three_inst_ratio": 0.39651517841292383,
+    "three_inst_ratio_change_20": -0.05634784233111867
   }
 ]

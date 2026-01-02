@@ -818,10 +818,10 @@
     "code": "3030",
     "name": "德律",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 18.35,
+    "trust_ratio": -4.544568530497511,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -12.9189137060995
+    "three_inst_ratio": 13.80543146950249,
+    "three_inst_ratio_change_20": 0.8865177634029902
   }
 ]

@@ -818,10 +818,10 @@
     "code": "2606",
     "name": "裕民",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
-    "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -11.02323897830774
+    "foreign_ratio": 6.96,
+    "trust_ratio": 3.8677838083177174,
+    "dealer_ratio": -0.06236275224419761,
+    "three_inst_ratio": 10.765421056073519,
+    "three_inst_ratio_change_20": -0.25781792223422073
   }
 ]

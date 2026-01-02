@@ -818,10 +818,10 @@
     "code": "9911",
     "name": "櫻花",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 17.85,
+    "trust_ratio": 0.028778326236717992,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -17.97552324644845
+    "three_inst_ratio": 17.87877832623672,
+    "three_inst_ratio_change_20": -0.09674492021173009
   }
 ]

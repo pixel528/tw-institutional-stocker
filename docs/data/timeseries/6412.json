@@ -818,10 +818,10 @@
     "code": "6412",
     "name": "群電",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 6.1,
+    "trust_ratio": -0.212280573728626,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -5.807512562382363
+    "three_inst_ratio": 5.8877194262713735,
+    "three_inst_ratio_change_20": 0.08020686388901055
   }
 ]

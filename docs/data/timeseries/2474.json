@@ -818,10 +818,10 @@
     "code": "2474",
     "name": "可成",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 22.57,
+    "trust_ratio": -0.4189423740989508,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -23.3189826820143
+    "three_inst_ratio": 22.15105762590105,
+    "three_inst_ratio_change_20": -1.1679250561132513
   }
 ]

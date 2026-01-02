@@ -818,10 +818,10 @@
     "code": "4915",
     "name": "致伸",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 47.74,
+    "trust_ratio": 1.0333390963416222,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -51.1535438438451
+    "three_inst_ratio": 48.77333909634162,
+    "three_inst_ratio_change_20": -2.380204747503477
   }
 ]

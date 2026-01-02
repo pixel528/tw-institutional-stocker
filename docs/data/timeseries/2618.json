@@ -818,10 +818,10 @@
     "code": "2618",
     "name": "長榮航",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 21.45,
+    "trust_ratio": 1.1461895755286957,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -22.485913650594085
+    "three_inst_ratio": 22.596189575528694,
+    "three_inst_ratio_change_20": 0.11027592493460858
   }
 ]

@@ -818,10 +818,10 @@
     "code": "2105",
     "name": "正新",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 11.05,
+    "trust_ratio": 0.5639079530838652,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -13.032364984086385
+    "three_inst_ratio": 11.613907953083865,
+    "three_inst_ratio_change_20": -1.4184570310025197
   }
 ]

@@ -818,10 +818,10 @@
     "code": "6191",
     "name": "精成科",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 7.94,
+    "trust_ratio": 7.685788589293476,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -18.973900577404905
+    "three_inst_ratio": 15.625788589293476,
+    "three_inst_ratio_change_20": -3.3481119881114285
   }
 ]

@@ -818,10 +818,10 @@
     "code": "2887",
     "name": "台新新光金",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 21.94,
+    "trust_ratio": 4.370590385635017,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -23.86223556015432
+    "three_inst_ratio": 26.310590385635017,
+    "three_inst_ratio_change_20": 2.4483548254806955
   }
 ]

@@ -818,10 +818,10 @@
     "code": "3592",
     "name": "瑞鼎",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 17.77,
+    "trust_ratio": -9.58932348313088,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -13.711830870031289
+    "three_inst_ratio": 8.18067651686912,
+    "three_inst_ratio_change_20": -5.531154353162169
   }
 ]

@@ -818,10 +818,10 @@
     "code": "4956",
     "name": "光鋐",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 8.45,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -10.45
+    "three_inst_ratio": 8.45,
+    "three_inst_ratio_change_20": -2.0
   }
 ]

@@ -818,10 +818,10 @@
     "code": "00713",
     "name": "元大台灣高息低波",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 0.41,
+    "trust_ratio": 0.08913715236510578,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -0.7584646816885245
+    "three_inst_ratio": 0.49913715236510575,
+    "three_inst_ratio_change_20": -0.2593275293234188
   }
 ]

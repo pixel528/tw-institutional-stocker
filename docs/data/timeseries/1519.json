@@ -818,10 +818,10 @@
     "code": "1519",
     "name": "華城",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 20.01,
+    "trust_ratio": 1.9874940564613661,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -21.668081056285896
+    "three_inst_ratio": 21.997494056461367,
+    "three_inst_ratio_change_20": 0.3294130001754709
   }
 ]

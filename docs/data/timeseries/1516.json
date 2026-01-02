@@ -796,10 +796,10 @@
     "code": "1516",
     "name": "川飛",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 1.61,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -1.05
+    "three_inst_ratio": 1.61,
+    "three_inst_ratio_change_20": 0.56
   }
 ]

@@ -818,10 +818,10 @@
     "code": "2015",
     "name": "豐興",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 11.92,
+    "trust_ratio": 0.22008790710219134,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -12.150858167012215
+    "three_inst_ratio": 12.140087907102192,
+    "three_inst_ratio_change_20": -0.010770259910023228
   }
 ]

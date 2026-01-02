@@ -818,10 +818,10 @@
     "code": "2404",
     "name": "漢唐",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 32.77,
+    "trust_ratio": 3.2906116039640922,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -36.7030136597466
+    "three_inst_ratio": 36.0606116039641,
+    "three_inst_ratio_change_20": -0.6424020557825045
   }
 ]

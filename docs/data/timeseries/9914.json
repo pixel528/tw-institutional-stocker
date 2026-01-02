@@ -818,10 +818,10 @@
     "code": "9914",
     "name": "美利達",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 23.57,
+    "trust_ratio": 0.2251011593270271,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -25.59510115932703
+    "three_inst_ratio": 23.79510115932703,
+    "three_inst_ratio_change_20": -1.8000000000000007
   }
 ]

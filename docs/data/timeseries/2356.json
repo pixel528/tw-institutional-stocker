@@ -818,10 +818,10 @@
     "code": "2356",
     "name": "英業達",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 12.84,
+    "trust_ratio": 0.2579272560719729,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -13.16646850157648
+    "three_inst_ratio": 13.097927256071973,
+    "three_inst_ratio_change_20": -0.06854124550450713
   }
 ]

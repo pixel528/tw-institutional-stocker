@@ -752,10 +752,10 @@
     "code": "6641",
     "name": "基士德-KY",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 29.6,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -29.58
+    "three_inst_ratio": 29.6,
+    "three_inst_ratio_change_20": 0.020000000000003126
   }
 ]

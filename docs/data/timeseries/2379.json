@@ -818,10 +818,10 @@
     "code": "2379",
     "name": "瑞昱",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 45.66,
+    "trust_ratio": 1.6612151320650157,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -48.28329904160627
+    "three_inst_ratio": 47.321215132065014,
+    "three_inst_ratio_change_20": -0.9620839095412563
   }
 ]

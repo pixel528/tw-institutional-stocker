@@ -818,10 +818,10 @@
     "code": "1532",
     "name": "勤美",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 9.27,
+    "trust_ratio": 0.040381513323607655,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -9.415459821157368
+    "three_inst_ratio": 9.310381513323607,
+    "three_inst_ratio_change_20": -0.10507830783376093
   }
 ]

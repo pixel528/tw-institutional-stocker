@@ -818,10 +818,10 @@
     "code": "2633",
     "name": "台灣高鐵",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 10.69,
+    "trust_ratio": 0.04994569349945886,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -10.973957879952312
+    "three_inst_ratio": 10.739945693499457,
+    "three_inst_ratio_change_20": -0.23401218645285482
   }
 ]

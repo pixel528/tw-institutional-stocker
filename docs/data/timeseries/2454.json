@@ -818,10 +818,10 @@
     "code": "2454",
     "name": "聯發科",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 56.53,
+    "trust_ratio": 1.1491422789131231,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -57.638428048038854
+    "three_inst_ratio": 57.679142278913126,
+    "three_inst_ratio_change_20": 0.04071423087427206
   }
 ]

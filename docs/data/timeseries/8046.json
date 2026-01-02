@@ -818,10 +818,10 @@
     "code": "8046",
     "name": "南電",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 10.86,
+    "trust_ratio": 2.6065064350922227,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -14.79103700120709
+    "three_inst_ratio": 13.466506435092223,
+    "three_inst_ratio_change_20": -1.324530566114868
   }
 ]

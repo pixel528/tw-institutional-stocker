@@ -213,10 +213,10 @@
     "code": "8112A",
     "name": "至上甲特",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 11.51,
+    "trust_ratio": 0.4266666666666667,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
+    "three_inst_ratio": 11.936666666666666,
     "three_inst_ratio_change_20": 0.0
   }
 ]

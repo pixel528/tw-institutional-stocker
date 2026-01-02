@@ -818,10 +818,10 @@
     "code": "6706",
     "name": "惠特",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 4.88,
+    "trust_ratio": 0.4519479689490103,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -5.9618329238942165
+    "three_inst_ratio": 5.33194796894901,
+    "three_inst_ratio_change_20": -0.6298849549452061
   }
 ]

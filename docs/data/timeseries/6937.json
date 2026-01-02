@@ -818,10 +818,10 @@
     "code": "6937",
     "name": "天虹",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 1.46,
+    "trust_ratio": 0.6614748732110267,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -2.0947931592488325
+    "three_inst_ratio": 2.1214748732110267,
+    "three_inst_ratio_change_20": 0.02668171396219421
   }
 ]

@@ -818,10 +818,10 @@
     "code": "6592",
     "name": "和潤企業",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 26.05,
+    "trust_ratio": 0.13020241644902303,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -26.33084431596526
+    "three_inst_ratio": 26.180202416449024,
+    "three_inst_ratio_change_20": -0.1506418995162342
   }
 ]

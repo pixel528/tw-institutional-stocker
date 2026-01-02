@@ -818,10 +818,10 @@
     "code": "6257",
     "name": "矽格",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 28.0,
+    "trust_ratio": -0.193676612803776,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -32.10674385644135
+    "three_inst_ratio": 27.806323387196223,
+    "three_inst_ratio_change_20": -4.300420469245125
   }
 ]

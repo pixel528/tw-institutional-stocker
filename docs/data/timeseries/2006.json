@@ -818,10 +818,10 @@
     "code": "2006",
     "name": "東和鋼鐵",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 14.84,
+    "trust_ratio": 0.8188005831464559,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -16.86371048752189
+    "three_inst_ratio": 15.658800583146455,
+    "three_inst_ratio_change_20": -1.2049099043754339
   }
 ]

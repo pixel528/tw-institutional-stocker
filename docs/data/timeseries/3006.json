@@ -818,10 +818,10 @@
     "code": "3006",
     "name": "晶豪科",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 26.68,
+    "trust_ratio": -0.0216652741835845,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -17.460586861049745
+    "three_inst_ratio": 26.658334725816417,
+    "three_inst_ratio_change_20": 9.197747864766672
   }
 ]

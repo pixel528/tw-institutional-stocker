@@ -818,10 +818,10 @@
     "code": "2357",
     "name": "華碩",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 40.15,
+    "trust_ratio": 5.493886937519061,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -48.06013830141806
+    "three_inst_ratio": 45.643886937519056,
+    "three_inst_ratio_change_20": -2.4162513638990006
   }
 ]

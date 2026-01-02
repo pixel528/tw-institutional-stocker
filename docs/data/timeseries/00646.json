@@ -818,10 +818,10 @@
     "code": "00646",
     "name": "元大S&P500",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 1.61,
+    "trust_ratio": 0.8279275334277015,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -2.644158097214797
+    "three_inst_ratio": 2.4379275334277017,
+    "three_inst_ratio_change_20": -0.20623056378709537
   }
 ]

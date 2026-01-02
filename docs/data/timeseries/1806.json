@@ -818,10 +818,10 @@
     "code": "1806",
     "name": "冠軍",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 7.47,
+    "trust_ratio": -0.2334728392933195,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -7.42585231852338
+    "three_inst_ratio": 7.236527160706681,
+    "three_inst_ratio_change_20": -0.18932515781669945
   }
 ]

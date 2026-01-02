@@ -818,10 +818,10 @@
     "code": "00885",
     "name": "富邦越南",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 5.3,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -3.32
+    "three_inst_ratio": 5.3,
+    "three_inst_ratio_change_20": 1.98
   }
 ]

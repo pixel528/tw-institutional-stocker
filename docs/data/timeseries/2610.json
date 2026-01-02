@@ -818,10 +818,10 @@
     "code": "2610",
     "name": "華航",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 13.52,
+    "trust_ratio": 1.1684874622534684,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -15.346538582762294
+    "three_inst_ratio": 14.688487462253468,
+    "three_inst_ratio_change_20": -0.6580511205088264
   }
 ]

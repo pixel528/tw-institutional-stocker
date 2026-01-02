@@ -818,10 +818,10 @@
     "code": "3034",
     "name": "聯詠",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 29.77,
+    "trust_ratio": 0.7046194227113245,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -31.230808063060515
+    "three_inst_ratio": 30.474619422711324,
+    "three_inst_ratio_change_20": -0.7561886403491904
   }
 ]

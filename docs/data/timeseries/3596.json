@@ -818,10 +818,10 @@
     "code": "3596",
     "name": "智易",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 43.17,
+    "trust_ratio": 0.6385220828049929,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -44.75351404300349
+    "three_inst_ratio": 43.80852208280499,
+    "three_inst_ratio_change_20": -0.9449919601985002
   }
 ]

@@ -818,10 +818,10 @@
     "code": "8110",
     "name": "華東",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 3.71,
+    "trust_ratio": 0.06740836782678103,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -2.1085672509412814
+    "three_inst_ratio": 3.777408367826781,
+    "three_inst_ratio_change_20": 1.6688411168854995
   }
 ]

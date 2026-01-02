@@ -818,10 +818,10 @@
     "code": "00965",
     "name": "元大航太防衛科技",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 1.23,
+    "trust_ratio": 3.9688566113259536,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -4.544947545906941
+    "three_inst_ratio": 5.198856611325954,
+    "three_inst_ratio_change_20": 0.653909065419013
   }
 ]

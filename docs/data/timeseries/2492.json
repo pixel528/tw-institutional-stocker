@@ -818,10 +818,10 @@
     "code": "2492",
     "name": "華新科",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 9.03,
+    "trust_ratio": 2.183186655963163,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -11.429287587898427
+    "three_inst_ratio": 11.213186655963163,
+    "three_inst_ratio_change_20": -0.21610093193526403
   }
 ]

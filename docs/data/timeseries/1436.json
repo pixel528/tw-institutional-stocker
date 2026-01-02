@@ -818,10 +818,10 @@
     "code": "1436",
     "name": "華友聯",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 4.44,
+    "trust_ratio": 0.035321233182142246,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -4.265900269791686
+    "three_inst_ratio": 4.475321233182143,
+    "three_inst_ratio_change_20": 0.2094209633904569
   }
 ]

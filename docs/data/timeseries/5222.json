@@ -818,10 +818,10 @@
     "code": "5222",
     "name": "全訊",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 4.22,
+    "trust_ratio": 1.8419234589185367,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -5.547426008535907
+    "three_inst_ratio": 6.061923458918536,
+    "three_inst_ratio_change_20": 0.5144974503826294
   }
 ]

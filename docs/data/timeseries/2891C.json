@@ -676,9 +676,9 @@
     "name": "中信金丙特",
     "market": "TWSE",
     "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "trust_ratio": 0.021600864034561382,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -0.021600864034561382
+    "three_inst_ratio": 0.021600864034561382,
+    "three_inst_ratio_change_20": 0.0
   }
 ]

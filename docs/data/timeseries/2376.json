@@ -818,10 +818,10 @@
     "code": "2376",
     "name": "技嘉",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 15.83,
+    "trust_ratio": 1.136134985825097,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -17.87003423621511
+    "three_inst_ratio": 16.966134985825096,
+    "three_inst_ratio_change_20": -0.9038992503900118
   }
 ]

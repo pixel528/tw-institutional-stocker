@@ -818,10 +818,10 @@
     "code": "0050",
     "name": "元大台灣50",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 4.15,
+    "trust_ratio": 0.5941267787839586,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -4.376737259009525
+    "three_inst_ratio": 4.744126778783959,
+    "three_inst_ratio_change_20": 0.36738951977443346
   }
 ]

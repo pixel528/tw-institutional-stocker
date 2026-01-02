@@ -818,10 +818,10 @@
     "code": "5243",
     "name": "乙盛-KY",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 56.61,
+    "trust_ratio": 0.32160653262379335,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -58.618710316268285
+    "three_inst_ratio": 56.931606532623796,
+    "three_inst_ratio_change_20": -1.6871037836444884
   }
 ]

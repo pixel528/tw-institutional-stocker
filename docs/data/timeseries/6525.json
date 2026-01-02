@@ -818,10 +818,10 @@
     "code": "6525",
     "name": "捷敏-KY",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 14.28,
+    "trust_ratio": 0.013173455728478773,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -14.322324727481497
+    "three_inst_ratio": 14.293173455728478,
+    "three_inst_ratio_change_20": -0.029151271753018904
   }
 ]

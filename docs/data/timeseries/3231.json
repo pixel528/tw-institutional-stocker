@@ -818,10 +818,10 @@
     "code": "3231",
     "name": "緯創",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 31.38,
+    "trust_ratio": 1.861773957134016,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -33.62592679612525
+    "three_inst_ratio": 33.241773957134015,
+    "three_inst_ratio_change_20": -0.3841528389912341
   }
 ]

@@ -818,10 +818,10 @@
     "code": "1810",
     "name": "和成",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 3.44,
+    "trust_ratio": 0.453517411077566,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -4.2
+    "three_inst_ratio": 3.893517411077566,
+    "three_inst_ratio_change_20": -0.3064825889224343
   }
 ]

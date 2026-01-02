@@ -818,10 +818,10 @@
     "code": "6141",
     "name": "柏承",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
+    "foreign_ratio": 2.18,
     "trust_ratio": 0.0,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -2.32
+    "three_inst_ratio": 2.18,
+    "three_inst_ratio_change_20": -0.13999999999999968
   }
 ]

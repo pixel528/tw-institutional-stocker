@@ -818,10 +818,10 @@
     "code": "2393",
     "name": "億光",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 28.36,
+    "trust_ratio": -8.844477561384437,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -22.743267470210398
+    "three_inst_ratio": 19.515522438615562,
+    "three_inst_ratio_change_20": -3.2277450315948357
   }
 ]

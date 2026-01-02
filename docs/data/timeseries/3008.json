@@ -818,10 +818,10 @@
     "code": "3008",
     "name": "大立光",
     "market": "TWSE",
-    "foreign_ratio": 0.0,
-    "trust_ratio": 0.0,
+    "foreign_ratio": 30.41,
+    "trust_ratio": 1.408344491234867,
     "dealer_ratio": 0.0,
-    "three_inst_ratio": 0.0,
-    "three_inst_ratio_change_20": -31.932768817503394
+    "three_inst_ratio": 31.818344491234868,
+    "three_inst_ratio_change_20": -0.1144243262685265
   }
 ]
