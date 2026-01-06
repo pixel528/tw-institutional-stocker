@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.768370220476462,
     "three_inst_ratio_change_20": 0.09837022047646204
+  },
+  {
+    "date": "2026-01-05",
+    "code": "6277",
+    "name": "宏正",
+    "market": "TWSE",
+    "foreign_ratio": 6.73,
+    "trust_ratio": 0.008370220476462078,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.738370220476463,
+    "three_inst_ratio_change_20": 0.07837022047646247
   }
 ]

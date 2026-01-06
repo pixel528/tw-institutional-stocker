@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.522514297101548,
     "three_inst_ratio_change_20": -2.685419588787891
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2316",
+    "name": "楠梓電",
+    "market": "TWSE",
+    "foreign_ratio": 28.97,
+    "trust_ratio": 1.0025142971015473,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 29.972514297101547,
+    "three_inst_ratio_change_20": -2.615419588787894
   }
 ]

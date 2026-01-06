@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.234281121305708,
     "three_inst_ratio_change_20": -0.8157188786942928
+  },
+  {
+    "date": "2026-01-05",
+    "code": "6153",
+    "name": "嘉聯益",
+    "market": "TWSE",
+    "foreign_ratio": 8.91,
+    "trust_ratio": -0.01571887869429135,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.894281121305708,
+    "three_inst_ratio_change_20": -1.2257188786942912
   }
 ]

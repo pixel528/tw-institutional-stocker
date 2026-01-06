@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.336079622804621,
     "three_inst_ratio_change_20": -0.12392037719537896
+  },
+  {
+    "date": "2026-01-05",
+    "code": "1455",
+    "name": "集盛",
+    "market": "TWSE",
+    "foreign_ratio": 2.34,
+    "trust_ratio": 0.04607962280462101,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.386079622804621,
+    "three_inst_ratio_change_20": -0.07392037719537914
   }
 ]

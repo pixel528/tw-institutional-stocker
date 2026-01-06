@@ -768,5 +768,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.469545506394482,
     "three_inst_ratio_change_20": -1.725707002357451
+  },
+  {
+    "date": "2026-01-05",
+    "code": "2352",
+    "name": "佳世達",
+    "market": "TWSE",
+    "foreign_ratio": 10.24,
+    "trust_ratio": 0.02732782172256861,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.267327821722569,
+    "three_inst_ratio_change_20": -1.9754603283331615
   }
 ]

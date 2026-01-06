@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.99633644344276,
     "three_inst_ratio_change_20": -0.13816112290987448
+  },
+  {
+    "date": "2026-01-05",
+    "code": "8210",
+    "name": "勤誠",
+    "market": "TWSE",
+    "foreign_ratio": 17.94,
+    "trust_ratio": 3.937980888115987,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.87798088811599,
+    "three_inst_ratio_change_20": -0.17056692210017843
   }
 ]
