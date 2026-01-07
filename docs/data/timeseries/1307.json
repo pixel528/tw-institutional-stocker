@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.919370376602699,
     "three_inst_ratio_change_20": -0.5015082269026632
+  },
+  {
+    "date": "2026-01-06",
+    "code": "1307",
+    "name": "三芳",
+    "market": "TWSE",
+    "foreign_ratio": 6.36,
+    "trust_ratio": 0.5993703766026991,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.959370376602699,
+    "three_inst_ratio_change_20": -0.4115082269026624
   }
 ]

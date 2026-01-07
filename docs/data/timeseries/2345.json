@@ -845,5 +845,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 60.23085534110133,
     "three_inst_ratio_change_20": 1.393990490469065
+  },
+  {
+    "date": "2026-01-06",
+    "code": "2345",
+    "name": "智邦",
+    "market": "TWSE",
+    "foreign_ratio": 57.95,
+    "trust_ratio": 2.434212680263164,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 60.38421268026317,
+    "three_inst_ratio_change_20": 1.5659723794730454
   }
 ]
