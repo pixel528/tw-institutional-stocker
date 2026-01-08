@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.8733516455456276,
     "three_inst_ratio_change_20": -0.3666483544543726
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1305",
+    "name": "華夏",
+    "market": "TWSE",
+    "foreign_ratio": 4.2,
+    "trust_ratio": 0.05335164554562792,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.253351645545628,
+    "three_inst_ratio_change_20": 0.033351645545628195
   }
 ]

@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.780090730120037,
     "three_inst_ratio_change_20": -0.29990926987996325
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2104",
+    "name": "國際中橡",
+    "market": "TWSE",
+    "foreign_ratio": 5.94,
+    "trust_ratio": -0.03990926987996373,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.900090730120037,
+    "three_inst_ratio_change_20": -0.5099092698799632
   }
 ]

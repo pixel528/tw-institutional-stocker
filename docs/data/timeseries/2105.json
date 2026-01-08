@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.487916403544997,
     "three_inst_ratio_change_20": -1.2662240289576996
+  },
+  {
+    "date": "2026-01-07",
+    "code": "2105",
+    "name": "正新",
+    "market": "TWSE",
+    "foreign_ratio": 11.26,
+    "trust_ratio": 0.42996801382641364,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.689968013826414,
+    "three_inst_ratio_change_20": -0.9249538398460988
   }
 ]

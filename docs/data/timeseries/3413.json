@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.69334747045828,
     "three_inst_ratio_change_20": -4.62640588713281
+  },
+  {
+    "date": "2026-01-07",
+    "code": "3413",
+    "name": "京鼎",
+    "market": "TWSE",
+    "foreign_ratio": 15.78,
+    "trust_ratio": -0.06572679996475192,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.714273200035247,
+    "three_inst_ratio_change_20": -4.592519943478287
   }
 ]

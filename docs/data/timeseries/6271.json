@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.241717398419492,
     "three_inst_ratio_change_20": -0.8603604649013654
+  },
+  {
+    "date": "2026-01-07",
+    "code": "6271",
+    "name": "同欣電",
+    "market": "TWSE",
+    "foreign_ratio": 25.17,
+    "trust_ratio": 0.17171739841949335,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.341717398419494,
+    "three_inst_ratio_change_20": -0.8703604649013634
   }
 ]

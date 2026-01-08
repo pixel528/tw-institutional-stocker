@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.998639565034479,
     "three_inst_ratio_change_20": -0.46951443470574716
+  },
+  {
+    "date": "2026-01-07",
+    "code": "1504",
+    "name": "東元",
+    "market": "TWSE",
+    "foreign_ratio": 14.33,
+    "trust_ratio": -4.2602024397929386,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.06979756020706,
+    "three_inst_ratio_change_20": -0.40367776472556116
   }
 ]

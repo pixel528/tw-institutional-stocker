@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.937329159454826,
     "three_inst_ratio_change_20": 5.8347211055824975
+  },
+  {
+    "date": "2026-01-07",
+    "code": "8021",
+    "name": "尖點",
+    "market": "TWSE",
+    "foreign_ratio": 8.91,
+    "trust_ratio": 2.308464552365174,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.218464552365173,
+    "three_inst_ratio_change_20": 6.184668281493589
   }
 ]

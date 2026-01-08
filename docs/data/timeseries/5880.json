@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.43113733149606,
     "three_inst_ratio_change_20": 0.36761300418047327
+  },
+  {
+    "date": "2026-01-07",
+    "code": "5880",
+    "name": "合庫金",
+    "market": "TWSE",
+    "foreign_ratio": 16.33,
+    "trust_ratio": 0.04050150214130247,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.370501502141302,
+    "three_inst_ratio_change_20": 0.29703456935545347
   }
 ]

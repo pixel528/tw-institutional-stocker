@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 37.06179515769048,
     "three_inst_ratio_change_20": -2.1350550174488916
+  },
+  {
+    "date": "2026-01-07",
+    "code": "8996",
+    "name": "高力",
+    "market": "TWSE",
+    "foreign_ratio": 29.05,
+    "trust_ratio": 8.164848403220088,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 37.21484840322009,
+    "three_inst_ratio_change_20": -1.9020017719192879
   }
 ]

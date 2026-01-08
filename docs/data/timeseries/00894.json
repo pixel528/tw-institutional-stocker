@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.8340890619106249,
     "three_inst_ratio_change_20": 0.12408906191062496
+  },
+  {
+    "date": "2026-01-07",
+    "code": "00894",
+    "name": "中信小資高價30",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.05408906191062494,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.6840890619106249,
+    "three_inst_ratio_change_20": -0.01591093808937505
   }
 ]

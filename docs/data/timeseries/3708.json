@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.712282852410823,
     "three_inst_ratio_change_20": -0.9613564191326436
+  },
+  {
+    "date": "2026-01-07",
+    "code": "3708",
+    "name": "上緯投控",
+    "market": "TWSE",
+    "foreign_ratio": 4.53,
+    "trust_ratio": 0.19855413623735196,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.728554136237352,
+    "three_inst_ratio_change_20": -0.9560173143494826
   }
 ]

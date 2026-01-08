@@ -856,5 +856,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.867239266245523,
     "three_inst_ratio_change_20": -0.24205460112274757
+  },
+  {
+    "date": "2026-01-07",
+    "code": "3617",
+    "name": "碩天",
+    "market": "TWSE",
+    "foreign_ratio": 9.7,
+    "trust_ratio": -2.2219664329338062,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.478033567066193,
+    "three_inst_ratio_change_20": -0.5312603003020779
   }
 ]
