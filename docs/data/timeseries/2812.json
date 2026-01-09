@@ -867,5 +867,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.65199434529603,
     "three_inst_ratio_change_20": 0.019038744794835694
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2812",
+    "name": "台中銀",
+    "market": "TWSE",
+    "foreign_ratio": 10.37,
+    "trust_ratio": 0.27166425172560965,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.64166425172561,
+    "three_inst_ratio_change_20": 0.028708651224414794
   }
 ]

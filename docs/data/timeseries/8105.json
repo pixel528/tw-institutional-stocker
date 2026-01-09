@@ -867,5 +867,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 38.5652955117803,
     "three_inst_ratio_change_20": -0.03470448821970251
+  },
+  {
+    "date": "2026-01-08",
+    "code": "8105",
+    "name": "凌巨",
+    "market": "TWSE",
+    "foreign_ratio": 38.52,
+    "trust_ratio": 0.04529551178029704,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 38.5652955117803,
+    "three_inst_ratio_change_20": -0.04470448821970052
   }
 ]

@@ -867,5 +867,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 21.529605585846184,
     "three_inst_ratio_change_20": -4.777775352938274
+  },
+  {
+    "date": "2026-01-08",
+    "code": "3702",
+    "name": "大聯大",
+    "market": "TWSE",
+    "foreign_ratio": 23.13,
+    "trust_ratio": -1.3154399282921712,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 21.814560071707827,
+    "three_inst_ratio_change_20": -4.382279234624338
   }
 ]

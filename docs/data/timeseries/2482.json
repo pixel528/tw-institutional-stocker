@@ -867,5 +867,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.0030147897650867,
     "three_inst_ratio_change_20": 0.0930147897650867
+  },
+  {
+    "date": "2026-01-08",
+    "code": "2482",
+    "name": "連宇",
+    "market": "TWSE",
+    "foreign_ratio": 0.95,
+    "trust_ratio": 0.0030147897650866316,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9530147897650866,
+    "three_inst_ratio_change_20": -0.016985210234913395
   }
 ]

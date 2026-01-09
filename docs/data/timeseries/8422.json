@@ -790,5 +790,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.652911883358497,
     "three_inst_ratio_change_20": 3.6023311305488797
+  },
+  {
+    "date": "2026-01-08",
+    "code": "8422",
+    "name": "可寧衛*",
+    "market": "TWSE",
+    "foreign_ratio": 4.98,
+    "trust_ratio": 7.546120520035234,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 12.526120520035235,
+    "three_inst_ratio_change_20": 0.6459795998587445
   }
 ]
