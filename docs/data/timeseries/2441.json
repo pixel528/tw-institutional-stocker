@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.877836684514083,
     "three_inst_ratio_change_20": -1.477578494933077
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2441",
+    "name": "超豐",
+    "market": "TWSE",
+    "foreign_ratio": 12.02,
+    "trust_ratio": 4.389243040735455,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.409243040735454,
+    "three_inst_ratio_change_20": -0.8442383989073186
   }
 ]

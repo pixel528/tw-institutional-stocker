@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.910950258895955,
     "three_inst_ratio_change_20": -1.6165678045780538
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2474",
+    "name": "可成",
+    "market": "TWSE",
+    "foreign_ratio": 22.94,
+    "trust_ratio": -2.3649656134621706,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.57503438653783,
+    "three_inst_ratio_change_20": -1.9503131646734175
   }
 ]

@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.092289658595178,
     "three_inst_ratio_change_20": -1.3886462442413752
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2059",
+    "name": "川湖",
+    "market": "TWSE",
+    "foreign_ratio": 25.15,
+    "trust_ratio": 0.125872702573695,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.275872702573693,
+    "three_inst_ratio_change_20": -1.2823100126308198
   }
 ]

@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 32.87071355334569,
     "three_inst_ratio_change_20": -0.218807234770928
+  },
+  {
+    "date": "2026-01-09",
+    "code": "1476",
+    "name": "儒鴻",
+    "market": "TWSE",
+    "foreign_ratio": 32.82,
+    "trust_ratio": 0.1295556157239269,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 32.94955561572393,
+    "three_inst_ratio_change_20": 0.050260437738842256
   }
 ]

@@ -878,5 +878,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.656965711989542,
     "three_inst_ratio_change_20": -4.98391977571503
+  },
+  {
+    "date": "2026-01-09",
+    "code": "2027",
+    "name": "大成鋼",
+    "market": "TWSE",
+    "foreign_ratio": 16.06,
+    "trust_ratio": 3.397236582503116,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.457236582503114,
+    "three_inst_ratio_change_20": -4.96364890520146
   }
 ]
