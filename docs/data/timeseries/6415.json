@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 80.59593262215459,
     "three_inst_ratio_change_20": 0.20646969476690913
+  },
+  {
+    "date": "2026-01-12",
+    "code": "6415",
+    "name": "矽力*-KY",
+    "market": "TWSE",
+    "foreign_ratio": 78.52,
+    "trust_ratio": 1.692518034201604,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 80.2125180342016,
+    "three_inst_ratio_change_20": -0.05823336657964262
   }
 ]

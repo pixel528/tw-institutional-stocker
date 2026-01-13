@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.316357395561482,
     "three_inst_ratio_change_20": 0.513294928984461
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2408",
+    "name": "南亞科",
+    "market": "TWSE",
+    "foreign_ratio": 13.97,
+    "trust_ratio": 4.376613218469917,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.34661321846992,
+    "three_inst_ratio_change_20": 0.5438089306827898
   }
 ]

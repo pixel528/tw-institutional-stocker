@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 7.72092733343942,
     "three_inst_ratio_change_20": -1.531025975387637
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2371",
+    "name": "大同",
+    "market": "TWSE",
+    "foreign_ratio": 11.03,
+    "trust_ratio": -3.102593812303816,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 7.927406187696183,
+    "three_inst_ratio_change_20": -1.4751034632412132
   }
 ]

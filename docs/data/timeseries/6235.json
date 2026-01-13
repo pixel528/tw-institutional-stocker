@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.53010779860041,
     "three_inst_ratio_change_20": 0.5399906262086596
+  },
+  {
+    "date": "2026-01-12",
+    "code": "6235",
+    "name": "華孚",
+    "market": "TWSE",
+    "foreign_ratio": 5.27,
+    "trust_ratio": 0.22760662687649286,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.497606626876492,
+    "three_inst_ratio_change_20": 0.509490391863876
   }
 ]

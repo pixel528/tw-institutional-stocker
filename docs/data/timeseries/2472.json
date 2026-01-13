@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 13.854563551915462,
     "three_inst_ratio_change_20": 0.9868276681616521
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2472",
+    "name": "立隆電",
+    "market": "TWSE",
+    "foreign_ratio": 10.76,
+    "trust_ratio": 3.389610802946065,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.149610802946064,
+    "three_inst_ratio_change_20": 0.9443352155648483
   }
 ]

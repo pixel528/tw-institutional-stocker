@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.421785456957025,
     "three_inst_ratio_change_20": -1.8644070218258761
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2458",
+    "name": "義隆",
+    "market": "TWSE",
+    "foreign_ratio": 11.29,
+    "trust_ratio": 3.9403924423001273,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.230392442300126,
+    "three_inst_ratio_change_20": -2.010964781432822
   }
 ]

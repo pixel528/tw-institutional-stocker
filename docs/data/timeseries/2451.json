@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.478324209558739,
     "three_inst_ratio_change_20": -2.3176659761074774
+  },
+  {
+    "date": "2026-01-12",
+    "code": "2451",
+    "name": "創見",
+    "market": "TWSE",
+    "foreign_ratio": 11.12,
+    "trust_ratio": -2.1105824582641803,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.009417541735818,
+    "three_inst_ratio_change_20": -3.7251296108843803
   }
 ]

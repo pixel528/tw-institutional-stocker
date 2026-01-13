@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.468563093266851,
     "three_inst_ratio_change_20": 0.008563093266851007
+  },
+  {
+    "date": "2026-01-12",
+    "code": "4438",
+    "name": "廣越",
+    "market": "TWSE",
+    "foreign_ratio": 1.53,
+    "trust_ratio": -0.04143690673314909,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.488563093266851,
+    "three_inst_ratio_change_20": 0.028563093266851025
   }
 ]

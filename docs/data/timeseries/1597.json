@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.57,
     "three_inst_ratio_change_20": 0.040000000000000036
+  },
+  {
+    "date": "2026-01-12",
+    "code": "1597",
+    "name": "直得",
+    "market": "TWSE",
+    "foreign_ratio": 3.74,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.74,
+    "three_inst_ratio_change_20": 0.17000000000000037
   }
 ]

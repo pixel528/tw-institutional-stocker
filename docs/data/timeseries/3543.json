@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.55,
     "three_inst_ratio_change_20": 4.050000000000001
+  },
+  {
+    "date": "2026-01-12",
+    "code": "3543",
+    "name": "州巧",
+    "market": "TWSE",
+    "foreign_ratio": 11.08,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.08,
+    "three_inst_ratio_change_20": 3.51
   }
 ]

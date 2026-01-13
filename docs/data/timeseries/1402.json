@@ -889,5 +889,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 19.145263442330563,
     "three_inst_ratio_change_20": -0.0745486336197736
+  },
+  {
+    "date": "2026-01-12",
+    "code": "1402",
+    "name": "遠東新",
+    "market": "TWSE",
+    "foreign_ratio": 18.94,
+    "trust_ratio": 0.20547968210655249,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 19.145479682106554,
+    "three_inst_ratio_change_20": -0.04397744441578055
   }
 ]
