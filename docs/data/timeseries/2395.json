@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 32.37659438126624,
     "three_inst_ratio_change_20": -0.3258505711496511
+  },
+  {
+    "date": "2026-01-13",
+    "code": "2395",
+    "name": "研華",
+    "market": "TWSE",
+    "foreign_ratio": 32.08,
+    "trust_ratio": 0.2651360985295524,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 32.34513609852955,
+    "three_inst_ratio_change_20": -0.30927606595773227
   }
 ]

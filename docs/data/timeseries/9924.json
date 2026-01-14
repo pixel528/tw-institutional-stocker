@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.374714926869773,
     "three_inst_ratio_change_20": -0.3601013694880777
+  },
+  {
+    "date": "2026-01-13",
+    "code": "9924",
+    "name": "福興",
+    "market": "TWSE",
+    "foreign_ratio": 11.31,
+    "trust_ratio": 0.0429346342894327,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.352934634289433,
+    "three_inst_ratio_change_20": -0.3806963480441752
   }
 ]

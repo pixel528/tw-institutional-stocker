@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.484542854393709,
     "three_inst_ratio_change_20": 0.5556648439241663
+  },
+  {
+    "date": "2026-01-13",
+    "code": "3026",
+    "name": "禾伸堂",
+    "market": "TWSE",
+    "foreign_ratio": 15.23,
+    "trust_ratio": 0.5815288147196149,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.811528814719615,
+    "three_inst_ratio_change_20": 0.9039167009131912
   }
 ]

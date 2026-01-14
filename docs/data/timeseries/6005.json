@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.740201148376848,
     "three_inst_ratio_change_20": -0.9407513755014563
+  },
+  {
+    "date": "2026-01-13",
+    "code": "6005",
+    "name": "群益證",
+    "market": "TWSE",
+    "foreign_ratio": 17.93,
+    "trust_ratio": 0.8944008282447343,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.824400828244734,
+    "three_inst_ratio_change_20": -0.8357814101330909
   }
 ]

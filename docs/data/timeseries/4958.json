@@ -900,5 +900,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 68.36163998743038,
     "three_inst_ratio_change_20": -1.4020773551120271
+  },
+  {
+    "date": "2026-01-13",
+    "code": "4958",
+    "name": "臻鼎-KY",
+    "market": "TWSE",
+    "foreign_ratio": 65.34,
+    "trust_ratio": 3.061048680111704,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 68.40104868011171,
+    "three_inst_ratio_change_20": -1.128952397102836
   }
 ]
