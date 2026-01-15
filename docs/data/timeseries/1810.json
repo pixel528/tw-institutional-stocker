@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.866826499015052,
     "three_inst_ratio_change_20": -0.37317350098494817
+  },
+  {
+    "date": "2026-01-14",
+    "code": "1810",
+    "name": "和成",
+    "market": "TWSE",
+    "foreign_ratio": 2.74,
+    "trust_ratio": 0.8416241151171547,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.581624115117155,
+    "three_inst_ratio_change_20": -0.6983758848828452
   }
 ]

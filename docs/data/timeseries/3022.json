@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.519802310096859,
     "three_inst_ratio_change_20": -0.1794621795663467
+  },
+  {
+    "date": "2026-01-14",
+    "code": "3022",
+    "name": "威強電",
+    "market": "TWSE",
+    "foreign_ratio": 15.62,
+    "trust_ratio": 0.039802310096859084,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.659802310096858,
+    "three_inst_ratio_change_20": -0.018329662562596383
   }
 ]

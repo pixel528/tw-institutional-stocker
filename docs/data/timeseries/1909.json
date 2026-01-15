@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.121807012353308,
     "three_inst_ratio_change_20": -0.5681929876466913
+  },
+  {
+    "date": "2026-01-14",
+    "code": "1909",
+    "name": "榮成",
+    "market": "TWSE",
+    "foreign_ratio": 9.29,
+    "trust_ratio": -0.1281929876466918,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.161807012353307,
+    "three_inst_ratio_change_20": -0.5181929876466924
   }
 ]

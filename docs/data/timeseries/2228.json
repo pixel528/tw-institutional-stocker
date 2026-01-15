@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.538071681654952,
     "three_inst_ratio_change_20": -1.07335960306163
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2228",
+    "name": "劍麟",
+    "market": "TWSE",
+    "foreign_ratio": 3.01,
+    "trust_ratio": 2.6580716816549512,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.668071681654951,
+    "three_inst_ratio_change_20": -0.9433596030616309
   }
 ]

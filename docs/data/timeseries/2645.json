@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 10.563987340962111,
     "three_inst_ratio_change_20": -0.5473563182401744
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2645",
+    "name": "長榮航太",
+    "market": "TWSE",
+    "foreign_ratio": 6.05,
+    "trust_ratio": 4.533987340962111,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 10.58398734096211,
+    "three_inst_ratio_change_20": -0.4737636488756962
   }
 ]

@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.154041594379162,
     "three_inst_ratio_change_20": 4.325148803554944
+  },
+  {
+    "date": "2026-01-14",
+    "code": "6282",
+    "name": "康舒",
+    "market": "TWSE",
+    "foreign_ratio": 14.62,
+    "trust_ratio": 0.16693801160094873,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.786938011600949,
+    "three_inst_ratio_change_20": 4.960590159000917
   }
 ]

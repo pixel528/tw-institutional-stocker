@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.722212570163546,
     "three_inst_ratio_change_20": -1.394374386164964
+  },
+  {
+    "date": "2026-01-14",
+    "code": "5234",
+    "name": "達興材料",
+    "market": "TWSE",
+    "foreign_ratio": 6.16,
+    "trust_ratio": 3.4227413900851253,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.582741390085125,
+    "three_inst_ratio_change_20": -1.408713361262988
   }
 ]

@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.56,
     "three_inst_ratio_change_20": 1.5099999999999998
+  },
+  {
+    "date": "2026-01-14",
+    "code": "9955",
+    "name": "佳龍",
+    "market": "TWSE",
+    "foreign_ratio": 5.91,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.91,
+    "three_inst_ratio_change_20": 0.7199999999999998
   }
 ]

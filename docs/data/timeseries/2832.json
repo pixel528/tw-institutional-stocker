@@ -834,5 +834,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.002006472502121,
     "three_inst_ratio_change_20": -0.37129839093023076
+  },
+  {
+    "date": "2026-01-14",
+    "code": "2832",
+    "name": "台產",
+    "market": "TWSE",
+    "foreign_ratio": 4.66,
+    "trust_ratio": 0.2796399846209841,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.939639984620984,
+    "three_inst_ratio_change_20": -0.26366487881136713
   }
 ]

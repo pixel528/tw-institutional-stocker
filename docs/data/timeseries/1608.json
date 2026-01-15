@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.940764987369746,
     "three_inst_ratio_change_20": -1.1481991441658121
+  },
+  {
+    "date": "2026-01-14",
+    "code": "1608",
+    "name": "華榮",
+    "market": "TWSE",
+    "foreign_ratio": 4.02,
+    "trust_ratio": 0.2087247628853791,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.228724762885379,
+    "three_inst_ratio_change_20": -0.8702393686501795
   }
 ]

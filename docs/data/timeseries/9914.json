@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 24.70510115932703,
     "three_inst_ratio_change_20": 0.08000000000000185
+  },
+  {
+    "date": "2026-01-14",
+    "code": "9914",
+    "name": "美利達",
+    "market": "TWSE",
+    "foreign_ratio": 24.77,
+    "trust_ratio": 0.2251011593270271,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 24.995101159327028,
+    "three_inst_ratio_change_20": 0.34999999999999787
   }
 ]

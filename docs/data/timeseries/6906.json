@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.631602390167396,
     "three_inst_ratio_change_20": 0.0075658816724022415
+  },
+  {
+    "date": "2026-01-14",
+    "code": "6906",
+    "name": "現觀科",
+    "market": "TWSE",
+    "foreign_ratio": 9.88,
+    "trust_ratio": -0.09839760983260479,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.781602390167397,
+    "three_inst_ratio_change_20": 0.1475658816724028
   }
 ]
