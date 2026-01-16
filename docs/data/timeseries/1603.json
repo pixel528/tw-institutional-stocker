@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.840759150285881,
     "three_inst_ratio_change_20": 0.16600267100705235
+  },
+  {
+    "date": "2026-01-15",
+    "code": "1603",
+    "name": "華電",
+    "market": "TWSE",
+    "foreign_ratio": 4.65,
+    "trust_ratio": 0.21128083135094528,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.861280831350945,
+    "three_inst_ratio_change_20": 0.3165243520721175
   }
 ]

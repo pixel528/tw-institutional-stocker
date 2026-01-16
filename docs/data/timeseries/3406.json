@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 36.054131967569475,
     "three_inst_ratio_change_20": 4.135719008095418
+  },
+  {
+    "date": "2026-01-15",
+    "code": "3406",
+    "name": "玉晶光",
+    "market": "TWSE",
+    "foreign_ratio": 32.34,
+    "trust_ratio": 3.6326013246597713,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 35.97260132465978,
+    "three_inst_ratio_change_20": 4.070686693335631
   }
 ]

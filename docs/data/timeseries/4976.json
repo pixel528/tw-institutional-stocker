@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 5.13,
     "three_inst_ratio_change_20": -0.9800000000000004
+  },
+  {
+    "date": "2026-01-15",
+    "code": "4976",
+    "name": "佳凌",
+    "market": "TWSE",
+    "foreign_ratio": 5.28,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 5.28,
+    "three_inst_ratio_change_20": -0.7699999999999996
   }
 ]

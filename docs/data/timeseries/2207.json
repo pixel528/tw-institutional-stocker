@@ -911,5 +911,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 22.549978156992392,
     "three_inst_ratio_change_20": -0.3379847765538315
+  },
+  {
+    "date": "2026-01-15",
+    "code": "2207",
+    "name": "和泰車",
+    "market": "TWSE",
+    "foreign_ratio": 22.2,
+    "trust_ratio": 0.34800365594306293,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 22.548003655943063,
+    "three_inst_ratio_change_20": -0.41108828351755733
   }
 ]

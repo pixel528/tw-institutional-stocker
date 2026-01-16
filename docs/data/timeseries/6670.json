@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 23.146530131119214,
     "three_inst_ratio_change_20": -0.3758763598374415
+  },
+  {
+    "date": "2026-01-15",
+    "code": "6670",
+    "name": "復盛應用",
+    "market": "TWSE",
+    "foreign_ratio": 26.14,
+    "trust_ratio": -2.7828217490597202,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 23.35717825094028,
+    "three_inst_ratio_change_20": -0.1963571485263529
   }
 ]

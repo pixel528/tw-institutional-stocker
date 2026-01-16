@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.27,
     "three_inst_ratio_change_20": 1.2699999999999996
+  },
+  {
+    "date": "2026-01-15",
+    "code": "6909",
+    "name": "創控",
+    "market": "TWSE",
+    "foreign_ratio": 8.61,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.61,
+    "three_inst_ratio_change_20": 1.6799999999999997
   }
 ]

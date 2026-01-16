@@ -814,6 +814,17 @@
     "three_inst_ratio_change_20": -0.38454545454545475
   },
   {
+    "date": "2025-12-31",
+    "code": "1414",
+    "name": "東和",
+    "market": "TWSE",
+    "foreign_ratio": 1.23,
+    "trust_ratio": 0.16272727272727272,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.3927272727272726,
+    "three_inst_ratio_change_20": -0.4645454545454546
+  },
+  {
     "date": "2026-01-12",
     "code": "1414",
     "name": "東和",
@@ -822,7 +833,7 @@
     "trust_ratio": 0.151010101010101,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.361010101010101,
-    "three_inst_ratio_change_20": -0.4962626262626262
+    "three_inst_ratio_change_20": -0.45626262626262615
   },
   {
     "date": "2026-01-13",
@@ -833,7 +844,7 @@
     "trust_ratio": 0.16666666666666669,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.3166666666666667,
-    "three_inst_ratio_change_20": -0.5006060606060605
+    "three_inst_ratio_change_20": -0.5606060606060606
   },
   {
     "date": "2026-01-14",
@@ -844,6 +855,17 @@
     "trust_ratio": 0.16515151515151513,
     "dealer_ratio": 0.0,
     "three_inst_ratio": 1.325151515151515,
-    "three_inst_ratio_change_20": -0.5521212121212122
+    "three_inst_ratio_change_20": -0.5021212121212122
+  },
+  {
+    "date": "2026-01-15",
+    "code": "1414",
+    "name": "東和",
+    "market": "TWSE",
+    "foreign_ratio": 1.18,
+    "trust_ratio": 0.16565656565656564,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 1.3456565656565656,
+    "three_inst_ratio_change_20": -0.4411616161616163
   }
 ]

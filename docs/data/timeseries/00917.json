@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.52,
     "three_inst_ratio_change_20": -2.44
+  },
+  {
+    "date": "2026-01-15",
+    "code": "00917",
+    "name": "中信特選金融",
+    "market": "TWSE",
+    "foreign_ratio": 0.24,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.24,
+    "three_inst_ratio_change_20": -2.6500000000000004
   }
 ]
