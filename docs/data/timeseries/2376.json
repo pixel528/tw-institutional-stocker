@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.017726628263542,
     "three_inst_ratio_change_20": -1.1875602863487416
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2376",
+    "name": "技嘉",
+    "market": "TWSE",
+    "foreign_ratio": 14.29,
+    "trust_ratio": 1.5645851452445205,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.85458514524452,
+    "three_inst_ratio_change_20": -1.249348310818224
   }
 ]

@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.13,
     "three_inst_ratio_change_20": -0.16000000000000014
+  },
+  {
+    "date": "2026-01-16",
+    "code": "3550",
+    "name": "聯穎",
+    "market": "TWSE",
+    "foreign_ratio": 2.96,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.96,
+    "three_inst_ratio_change_20": -0.5
   }
 ]

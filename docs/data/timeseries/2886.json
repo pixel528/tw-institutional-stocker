@@ -933,5 +933,16 @@
     "dealer_ratio": -0.00248070259521748,
     "three_inst_ratio": 20.799277246787874,
     "three_inst_ratio_change_20": -0.515728758941119
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2886",
+    "name": "兆豐金",
+    "market": "TWSE",
+    "foreign_ratio": 20.94,
+    "trust_ratio": -0.10728702320840604,
+    "dealer_ratio": -0.00248070259521748,
+    "three_inst_ratio": 20.830232274196376,
+    "three_inst_ratio_change_20": -0.3808539782765017
   }
 ]

@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.588554650410636,
     "three_inst_ratio_change_20": -0.9676970175911705
+  },
+  {
+    "date": "2026-01-16",
+    "code": "8112",
+    "name": "至上",
+    "market": "TWSE",
+    "foreign_ratio": 16.16,
+    "trust_ratio": 0.3639789106280526,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.523978910628053,
+    "three_inst_ratio_change_20": -1.2218903032044501
   }
 ]

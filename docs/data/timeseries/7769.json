@@ -372,5 +372,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 16.040925915633856,
     "three_inst_ratio_change_20": 3.2146779303062303
+  },
+  {
+    "date": "2026-01-16",
+    "code": "7769",
+    "name": "鴻勁",
+    "market": "TWSE",
+    "foreign_ratio": 13.64,
+    "trust_ratio": 2.536454732395932,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 16.176454732395932,
+    "three_inst_ratio_change_20": 2.952387039404213
   }
 ]

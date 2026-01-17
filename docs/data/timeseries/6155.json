@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 9.59,
     "three_inst_ratio_change_20": 3.1099999999999994
+  },
+  {
+    "date": "2026-01-16",
+    "code": "6155",
+    "name": "鈞寶",
+    "market": "TWSE",
+    "foreign_ratio": 9.23,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 9.23,
+    "three_inst_ratio_change_20": 2.3600000000000003
   }
 ]

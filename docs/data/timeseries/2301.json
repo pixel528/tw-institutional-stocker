@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 30.147645999756598,
     "three_inst_ratio_change_20": 0.14688574815688327
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2301",
+    "name": "光寶科",
+    "market": "TWSE",
+    "foreign_ratio": 32.87,
+    "trust_ratio": -2.8446338680037373,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 30.02536613199626,
+    "three_inst_ratio_change_20": -0.0031189617723939023
   }
 ]

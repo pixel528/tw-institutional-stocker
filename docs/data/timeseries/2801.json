@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 18.2873293217055,
     "three_inst_ratio_change_20": -0.7394915026686668
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2801",
+    "name": "彰銀",
+    "market": "TWSE",
+    "foreign_ratio": 18.5,
+    "trust_ratio": -0.22294855413568976,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 18.27705144586431,
+    "three_inst_ratio_change_20": -0.819689164648743
   }
 ]

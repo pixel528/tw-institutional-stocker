@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 66.28065944330282,
     "three_inst_ratio_change_20": 0.1406594433028232
+  },
+  {
+    "date": "2026-01-16",
+    "code": "2029",
+    "name": "盛餘",
+    "market": "TWSE",
+    "foreign_ratio": 66.28,
+    "trust_ratio": -0.009340556697179151,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 66.27065944330282,
+    "three_inst_ratio_change_20": 0.12065944330281297
   }
 ]

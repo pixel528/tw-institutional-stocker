@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 33.224822689124,
     "three_inst_ratio_change_20": 8.305260658614134
+  },
+  {
+    "date": "2026-01-16",
+    "code": "6531",
+    "name": "愛普*",
+    "market": "TWSE",
+    "foreign_ratio": 30.76,
+    "trust_ratio": 2.893591861055856,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 33.65359186105586,
+    "three_inst_ratio_change_20": 8.718955055033032
   }
 ]
