@@ -357,17 +357,17 @@
     "change": 3.9399999999999995
   },
   {
-    "code": "2369",
-    "name": "菱生",
-    "market": "TWSE",
-    "three_inst_ratio": 16.18,
-    "change": 3.92
-  },
-  {
     "code": "6133",
     "name": "金橋",
     "market": "TWSE",
     "three_inst_ratio": 6.59,
+    "change": 3.92
+  },
+  {
+    "code": "2369",
+    "name": "菱生",
+    "market": "TWSE",
+    "three_inst_ratio": 16.18,
     "change": 3.92
   },
   {

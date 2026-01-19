@@ -826,17 +826,17 @@
     "change": -0.59
   },
   {
-    "code": "6116",
-    "name": "彩晶",
-    "market": "TWSE",
-    "three_inst_ratio": 8.287484953978447,
-    "change": -0.5899999999999999
-  },
-  {
     "code": "00944",
     "name": "野村趨勢動能高息",
     "market": "TWSE",
     "three_inst_ratio": 1.35,
+    "change": -0.5899999999999999
+  },
+  {
+    "code": "6116",
+    "name": "彩晶",
+    "market": "TWSE",
+    "three_inst_ratio": 8.287484953978447,
     "change": -0.5899999999999999
   },
   {
@@ -889,17 +889,17 @@
     "change": -0.544380984245393
   },
   {
-    "code": "00946",
-    "name": "群益科技高息成長",
-    "market": "TWSE",
-    "three_inst_ratio": 0.98,
-    "change": -0.54
-  },
-  {
     "code": "3622",
     "name": "洋華",
     "market": "TWSE",
     "three_inst_ratio": 4.77,
+    "change": -0.54
+  },
+  {
+    "code": "00946",
+    "name": "群益科技高息成長",
+    "market": "TWSE",
+    "three_inst_ratio": 0.98,
     "change": -0.54
   },
   {
@@ -1106,17 +1106,17 @@
     "change": -0.39636212406242066
   },
   {
-    "code": "00635U",
-    "name": "期元大S&P黃金",
-    "market": "TWSE",
-    "three_inst_ratio": 16.0,
-    "change": -0.39000000000000057
-  },
-  {
     "code": "00681R",
     "name": "元大美債20反1",
     "market": "TWSE",
     "three_inst_ratio": 11.11,
+    "change": -0.39000000000000057
+  },
+  {
+    "code": "00635U",
+    "name": "期元大S&P黃金",
+    "market": "TWSE",
+    "three_inst_ratio": 16.0,
     "change": -0.39000000000000057
   },
   {
@@ -1281,17 +1281,17 @@
     "change": -0.3120102210116613
   },
   {
-    "code": "00902",
-    "name": "中信電池及儲能",
-    "market": "TWSE",
-    "three_inst_ratio": 0.49,
-    "change": -0.31000000000000005
-  },
-  {
     "code": "2399",
     "name": "映泰",
     "market": "TWSE",
     "three_inst_ratio": 1.94,
+    "change": -0.31000000000000005
+  },
+  {
+    "code": "00902",
+    "name": "中信電池及儲能",
+    "market": "TWSE",
+    "three_inst_ratio": 0.49,
     "change": -0.31000000000000005
   },
   {
@@ -1302,17 +1302,17 @@
     "change": -0.305097614296276
   },
   {
-    "code": "2349",
-    "name": "錸德",
-    "market": "TWSE",
-    "three_inst_ratio": 11.18,
-    "change": -0.3000000000000007
-  },
-  {
     "code": "1528",
     "name": "恩德",
     "market": "TWSE",
     "three_inst_ratio": 4.31,
+    "change": -0.3000000000000007
+  },
+  {
+    "code": "2349",
+    "name": "錸德",
+    "market": "TWSE",
+    "three_inst_ratio": 11.18,
     "change": -0.3000000000000007
   },
   {
@@ -1365,10 +1365,10 @@
     "change": -0.2923014657462275
   },
   {
-    "code": "2013",
-    "name": "中鋼構",
+    "code": "00897",
+    "name": "富邦基因免疫生技",
     "market": "TWSE",
-    "three_inst_ratio": 7.03,
+    "three_inst_ratio": 0.51,
     "change": -0.29000000000000004
   },
   {
@@ -1379,10 +1379,10 @@
     "change": -0.29000000000000004
   },
   {
-    "code": "00897",
-    "name": "富邦基因免疫生技",
+    "code": "2013",
+    "name": "中鋼構",
     "market": "TWSE",
-    "three_inst_ratio": 0.51,
+    "three_inst_ratio": 7.03,
     "change": -0.29000000000000004
   },
   {

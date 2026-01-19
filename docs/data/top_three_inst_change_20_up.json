@@ -987,17 +987,17 @@
     "change": 0.7687247610607102
   },
   {
-    "code": "9955",
-    "name": "佳龍",
-    "market": "TWSE",
-    "three_inst_ratio": 5.9,
-    "change": 0.75
-  },
-  {
     "code": "1409",
     "name": "新纖",
     "market": "TWSE",
     "three_inst_ratio": 12.399206571000855,
+    "change": 0.75
+  },
+  {
+    "code": "9955",
+    "name": "佳龍",
+    "market": "TWSE",
+    "three_inst_ratio": 5.9,
     "change": 0.75
   },
   {
@@ -1204,17 +1204,17 @@
     "change": 0.6000000000000001
   },
   {
-    "code": "1308",
-    "name": "亞聚",
-    "market": "TWSE",
-    "three_inst_ratio": 5.42,
-    "change": 0.5999999999999996
-  },
-  {
     "code": "4564",
     "name": "元翎",
     "market": "TWSE",
     "three_inst_ratio": 2.82,
+    "change": 0.5999999999999996
+  },
+  {
+    "code": "1308",
+    "name": "亞聚",
+    "market": "TWSE",
+    "three_inst_ratio": 5.42,
     "change": 0.5999999999999996
   },
   {
