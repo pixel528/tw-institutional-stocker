@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.436390698686968,
     "three_inst_ratio_change_20": 0.5065645661750278
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2436",
+    "name": "偉詮電",
+    "market": "TWSE",
+    "foreign_ratio": 5.84,
+    "trust_ratio": 1.1013960950776729,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.941396095077673,
+    "three_inst_ratio_change_20": 1.031569962565733
   }
 ]

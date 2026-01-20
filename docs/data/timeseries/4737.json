@@ -933,5 +933,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 25.19,
     "three_inst_ratio_change_20": 1.5500000000000007
+  },
+  {
+    "date": "2026-01-19",
+    "code": "4737",
+    "name": "華廣",
+    "market": "TWSE",
+    "foreign_ratio": 25.31,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 25.31,
+    "three_inst_ratio_change_20": 1.509999999999998
   }
 ]

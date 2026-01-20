@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 8.200169406779661,
     "three_inst_ratio_change_20": -0.566159745762711
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2504",
+    "name": "國產",
+    "market": "TWSE",
+    "foreign_ratio": 10.22,
+    "trust_ratio": -1.9980572033898307,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 8.22194279661017,
+    "three_inst_ratio_change_20": -0.5363298305084729
   }
 ]

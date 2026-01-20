@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 14.549520719053515,
     "three_inst_ratio_change_20": 0.22929202260429982
+  },
+  {
+    "date": "2026-01-19",
+    "code": "6944",
+    "name": "兆聯實業",
+    "market": "TWSE",
+    "foreign_ratio": 13.48,
+    "trust_ratio": 1.2589742517171656,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 14.738974251717167,
+    "three_inst_ratio_change_20": 0.4156408229813824
   }
 ]

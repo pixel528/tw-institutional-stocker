@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 58.587978131804064,
     "three_inst_ratio_change_20": -1.4980312130242908
+  },
+  {
+    "date": "2026-01-19",
+    "code": "6768",
+    "name": "志強-KY",
+    "market": "TWSE",
+    "foreign_ratio": 58.96,
+    "trust_ratio": -0.42373359730253407,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 58.536266402697464,
+    "three_inst_ratio_change_20": -1.3791892297131696
   }
 ]

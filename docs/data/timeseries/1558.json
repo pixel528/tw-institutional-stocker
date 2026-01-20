@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 6.1715059600171225,
     "three_inst_ratio_change_20": -0.06372647987662372
+  },
+  {
+    "date": "2026-01-19",
+    "code": "1558",
+    "name": "伸興",
+    "market": "TWSE",
+    "foreign_ratio": 6.18,
+    "trust_ratio": -0.0008296306681152539,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 6.179170369331884,
+    "three_inst_ratio_change_20": -0.04606207056186218
   }
 ]

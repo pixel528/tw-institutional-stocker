@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 77.27940206801827,
     "three_inst_ratio_change_20": 0.16445078275903313
+  },
+  {
+    "date": "2026-01-19",
+    "code": "3711",
+    "name": "日月光投控",
+    "market": "TWSE",
+    "foreign_ratio": 78.51,
+    "trust_ratio": -1.2307259921806735,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 77.27927400781932,
+    "three_inst_ratio_change_20": 0.19367971216568947
   }
 ]

@@ -922,5 +922,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.3308634874990015,
     "three_inst_ratio_change_20": -0.19198578161195012
+  },
+  {
+    "date": "2026-01-19",
+    "code": "7799",
+    "name": "禾榮科",
+    "market": "TWSE",
+    "foreign_ratio": 3.35,
+    "trust_ratio": 0.010863487499001519,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.3608634874990018,
+    "three_inst_ratio_change_20": -0.1819857816119499
   }
 ]

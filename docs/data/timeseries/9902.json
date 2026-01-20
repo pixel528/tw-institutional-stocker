@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 3.06,
     "three_inst_ratio_change_20": 0.27
+  },
+  {
+    "date": "2026-01-19",
+    "code": "9902",
+    "name": "台火",
+    "market": "TWSE",
+    "foreign_ratio": 3.16,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 3.16,
+    "three_inst_ratio_change_20": 0.3900000000000001
   }
 ]

@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 11.729999781121322,
     "three_inst_ratio_change_20": -0.34429016229374554
+  },
+  {
+    "date": "2026-01-19",
+    "code": "2480",
+    "name": "敦陽科",
+    "market": "TWSE",
+    "foreign_ratio": 11.77,
+    "trust_ratio": 0.04298220658309406,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 11.812982206583094,
+    "three_inst_ratio_change_20": -0.2513077368319738
   }
 ]

@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 15.602415807741847,
     "three_inst_ratio_change_20": 1.936776406350889
+  },
+  {
+    "date": "2026-01-19",
+    "code": "1319",
+    "name": "東陽",
+    "market": "TWSE",
+    "foreign_ratio": 13.43,
+    "trust_ratio": 1.9044248051895734,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 15.334424805189574,
+    "three_inst_ratio_change_20": 1.162849469322115
   }
 ]

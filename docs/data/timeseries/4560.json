@@ -944,5 +944,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 84.87,
     "three_inst_ratio_change_20": -0.3399999999999892
+  },
+  {
+    "date": "2026-01-19",
+    "code": "4560",
+    "name": "強信-KY",
+    "market": "TWSE",
+    "foreign_ratio": 84.86,
+    "trust_ratio": 0.0,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 84.86,
+    "three_inst_ratio_change_20": -0.37000000000000455
   }
 ]
