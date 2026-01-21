@@ -955,5 +955,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 2.9322665827619385,
     "three_inst_ratio_change_20": 1.1122665827619385
+  },
+  {
+    "date": "2026-01-20",
+    "code": "2009",
+    "name": "第一銅",
+    "market": "TWSE",
+    "foreign_ratio": 2.78,
+    "trust_ratio": 0.08369895665357557,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 2.8636989566535753,
+    "three_inst_ratio_change_20": 1.0436989566535753
   }
 ]

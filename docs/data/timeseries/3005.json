@@ -955,5 +955,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 20.973482093896656,
     "three_inst_ratio_change_20": -2.4301425600343407
+  },
+  {
+    "date": "2026-01-20",
+    "code": "3005",
+    "name": "神基",
+    "market": "TWSE",
+    "foreign_ratio": 19.22,
+    "trust_ratio": 1.4470501320588525,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 20.66705013205885,
+    "three_inst_ratio_change_20": -2.7109556930094847
   }
 ]

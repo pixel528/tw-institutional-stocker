@@ -955,5 +955,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 0.9101051750457825,
     "three_inst_ratio_change_20": -0.7566024769471087
+  },
+  {
+    "date": "2026-01-20",
+    "code": "00881",
+    "name": "國泰台灣科技龍頭",
+    "market": "TWSE",
+    "foreign_ratio": 0.63,
+    "trust_ratio": 0.3345524986594689,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 0.9645524986594689,
+    "three_inst_ratio_change_20": -0.7626676819665275
   }
 ]

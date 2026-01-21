@@ -955,5 +955,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 4.348301547930793,
     "three_inst_ratio_change_20": -1.3748541608194147
+  },
+  {
+    "date": "2026-01-20",
+    "code": "4720",
+    "name": "德淵",
+    "market": "TWSE",
+    "foreign_ratio": 4.47,
+    "trust_ratio": -0.006575498242224362,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 4.463424501757776,
+    "three_inst_ratio_change_20": -1.2897312069924327
   }
 ]

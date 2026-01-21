@@ -955,5 +955,16 @@
     "dealer_ratio": 0.0,
     "three_inst_ratio": 31.106156417623815,
     "three_inst_ratio_change_20": 2.6035558235665306
+  },
+  {
+    "date": "2026-01-20",
+    "code": "6515",
+    "name": "穎崴",
+    "market": "TWSE",
+    "foreign_ratio": 20.79,
+    "trust_ratio": 10.759520889753025,
+    "dealer_ratio": 0.0,
+    "three_inst_ratio": 31.549520889753026,
+    "three_inst_ratio_change_20": 2.956515582170205
   }
 ]
